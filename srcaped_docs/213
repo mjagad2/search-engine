@@ -1,0 +1,175 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script> -->
+
+<head>
+	
+	<link rel="stylesheet" href="files/style.css" type="text/css">
+	<title>Christopher Tran</title>
+
+  <meta name="msvalidate.01" content="21366AD1101FF00C4C33AF6911CCE37D" />
+	<meta name="google-site-verification" content="3nEXT02AD5mF4sir_MNrCWrFu6UAEDSf7JK7IvDcV9k" />
+</head>
+
+<body>
+	<a id="top"> </a>
+	<div class="titleBar">
+		<h1>Christopher Tran</h1>
+		<ul class="hList">
+			<li><a href="#ABOUTME">ABOUT ME</a>
+				<!-- </li><li><a href="#RESEARCHINTERESTS">RESEARCH INTERESTS</a> -->
+			</li>
+			<li><a href="#PUBLICATIONS">PUBLICATIONS</a>
+				<!-- </li><li><a href="#EDUCATION">EDUCATION</a> -->
+			</li>
+			<li><a href="#TEACHING">TEACHING</a>
+			</li>
+		</ul>
+	</div>
+	<div class="content">
+		<!-- <img src="./files/chris_head.jpg" alt="photo" style="width:256px;height:198px;" align="left"> -->
+		<img src="files/head.jpg" alt="photo" width="256" height="198" align="left">
+
+		<pre>PhD Student</pre>
+		<pre>Computer Science</pre>
+		<pre>University of Illinois at Chicago</pre>
+
+
+		<p style="margin-left:360px; font-size: 90%;">
+
+			<a href="https://www.cs.uic.edu/~ctran/docs/chris_tran_cv.pdf"> CV</a> (updated August 2019).
+
+		</p>
+
+		<br>
+		<br>
+		<div class="row">
+			<div class="column">
+				<a href="https://github.com/chris-tran-16"> <img src="files/github.png" alt="photo" style="width:32px;height:32px;" align="left" hspace="0"></a>
+			</div>
+			<div class="column">
+				<a href="https://twitter.com/chris_tran16"> <img src="files/twitter_black.svg" alt="photo" style="width:32px;height:32px;" align="left" hspace="5"></a>
+			</div>
+			<div class="column">
+				<a href="https://www.linkedin.com/in/christran16/"><img src="files/linkedin.png" alt="photo" style="width:32px;height:32px;" align="left" hspace="0"></a>
+			</div>
+			<div class="column">
+				<a href="mailto:ctran29@uic.edu"><img src="files/email.png" alt="photo" style="width:32px;height:32px;" align="left" hspace="5"></a>
+			</div>
+		</div>
+
+	</div>
+	<hr>
+
+	<div id="ABOUTME" class="content">
+		<h2> ABOUT ME </h2>
+		<p>
+			Hi, my name is Chris. I received my double B.S. in Computer Science and Mathematics from Delaware State University. Currently, I am a PhD student in Computer Science at the University of Illinois at Chicago, working with Professor <a href="http://www.cs.uic.edu/~elena">Elena Zheleva</a>.
+			Currently, my main focus is in the realm of causal inference, particularly using machine learning to estimating individual treatment effects. In addition to that, I hope to be able to expand to treatment effect estimation in networks (such as social networks) by accounting for interference in treatment.
+			<br>
+		</p>
+		<p>
+			I'm also interested in applying causal inference and machine learning for applications to social science, privacy, social networks.
+			More broadly, I'm interested in applying graph algorithms and deep learning for the problem of causal inference for social networks.
+		</p>
+	</div>
+
+	<!-- N. Hirsch, C. Kanich, M. Khan, X. Liu, M. Mondal, M. Tang, C. Tran, B. Ur, W. Wang, G. Yilmaz, E. Zheleva. Making Retrospective Data Management Usable. Poster. 14th Symposium On Usable Privacy and Security (SOUPS). Baltimore, MD, August 2018.  -->
+
+	<hr>
+	<div id="PUBLICATIONS" class="content">
+		<h2> PUBLICATIONS </h2>
+
+		<p>Paths to Empathy: Heterogeneous Effects of Reading Personal Stories Online
+			<br>
+			<i>M. Roshanaei, <b>C. Tran</b>, S. Morelli, C. Caragea, E. Zheleva</i>
+			<br>
+			In IEEE Conference on Data Science and Advanced Analytics (DSAA) 2019
+			<a href="https://www.cs.uic.edu/~ctran/docs/roshanaei-dsaa2019.pdf">[PDF]</a>
+		</p>
+
+		<p>Moving Beyond Set-It-And-Forget-It Privacy Settings on Social Media
+			<br>
+			<i>M. Mondal, G. Yilmaz, N. Hirsch, M. Khan, M. Tang, <b>C. Tran</b>, C. Kanich, B. Ur, E. Zheleva</i>
+			<br>
+			In ACM Conference on Computer and Communications Security (CCS), 2019
+			<a href="https://www.cs.uic.edu/~ctran/docs/mondal-ccs2019.pdf">[PDF]</a>
+		</p>
+
+		<p>Learning Triggers for Heterogeneous Treamtent Effects
+			<br>
+			<i><b>C. Tran</b>, E. Zheleva.</i>
+			<br>
+			In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2019
+			<a href="https://arxiv.org/pdf/1902.00087.pdf">[PDF]</a> <a href="https://github.com/edgeslab/CTL">[Code]</a>
+		</p>
+
+		<p>Making Retrospective Data Management Usable (Poster)
+			<br>
+			<i>N. Hirsch, C. Kanich, M. Khan, X. Liu, M. Mondal, M. Tang, <b>C. Tran</b>, B. Ur, W. Wang, G. Yilmaz, E. Zheleva.</i>
+			<br>
+			In 14th Symposium On Usable Privacy and Security (SOUPS), August 2018
+		</p>
+
+		<h3>Technical Reports</h3>
+
+		<p>
+			Privacy Preservation in Shared Images (a survey) <a href="https://www.cs.uic.edu/~ctran/docs/ChrisTranWCP.pdf">[PDF]</a> <a href="https://www.cs.uic.edu/~ctran/docs/ChrisTranWCPSlides.pdf">[Slides]</a>
+			<br>
+			C. Tran
+			<!-- <br> -->
+		</p>
+
+	</div>
+
+	<!-- <hr>
+            </a><div id="EDUCATION" class="content"><a href="http://web.stanford.edu/~ysui/papers/wang2012pnas.pdf">
+            <h2> EDUCATION </h2>
+            </a><p><a href="http://web.stanford.edu/~ysui/papers/wang2012pnas.pdf">2011 - 2016, &nbsp; &nbsp;</a><a href="http://www.caltech.edu/">California Institute of Technology</a><br>
+            </p><ul>Ph.D. in <a href="http://www.cns.caltech.edu/">Computation and Neural Systems</a></ul> <p></p>
+
+            <p>2006 - 2010, &nbsp; &nbsp;<a href="http://www.tsinghua.edu.cn/">Tsinghua University</a> <br>
+            </p><ul>B.E. in <a href="http://www.med.tsinghua.edu.cn/">Biomedical Engineering</a></ul> <p></p>
+            <p></p>
+            </div>
+            <hr> -->
+
+	<hr>
+	<div id="TEACHING" class="content">
+		<!-- <a href="#top" style="margin-bottom: 20px; margin-right: 20px; float:right;"> Back to top </a> -->
+		<h2>TEACHING </h2>
+
+		<p> Fall 2018, <b>Teaching Assistant</b> for <i>Introduction to Machine Learning (CS412)</i>,
+			<a href="https://catalog.uic.edu/ucat/course-descriptions/cs/">University of Illinois at Chicago</a></p>
+
+		<p> Spring 2018, <b>Teaching Assistant</b> for <i>Mathematical Foundations of Computing (CS 151) </i>,
+			<a href="https://catalog.uic.edu/ucat/course-descriptions/cs/">University of Illinois at Chicago</a></p>
+
+		<p> Fall 2017, <b>Teaching Assistant</b> for <i>Mathematical Foundations of Computing (CS 151)</i>,
+			<a href="https://catalog.uic.edu/ucat/course-descriptions/cs/">University of Illinois at Chicago</a></p>
+
+		<p> Summer 2017, <b>Teaching Assistant</b> for <i> Program Design I (CS 111)</i>,
+			<a href="https://catalog.uic.edu/ucat/course-descriptions/cs/">University of Illinois at Chicago</a></p>
+
+		<p> Spring 2017, <b>Teaching Assistant</b> for <i>Mathematical Foundations of Computing (CS 151)</i>,
+			<a href="https://catalog.uic.edu/ucat/course-descriptions/cs/">University of Illinois at Chicago</a></p>
+
+		<p> Fall 2016, <b>Teaching Assistant</b> for <i>C/C ++ Programming for Engineers with MatLab (CS 109)</i>,
+			<a href="https://catalog.uic.edu/ucat/course-descriptions/cs/">University of Illinois at Chicago</a></p>
+
+
+	</div>
+	<hr>
+
+	<noscript>
+
+</body>
+
+</html></noscript></body>
+
+</html>

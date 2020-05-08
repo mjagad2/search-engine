@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>[ Ragib Ahsan @ UIC ]</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Font Awesome Icons -->
+<link rel="stylesheet" href="css/font-awesome.min.css">
+
+<!-- Bootstrap -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<!--<link href="css/bootstrap.min.css" rel="stylesheet">-->
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="js/html5shiv.js"></script>
+<script src="js/respond.min.js"></script>
+<![endif]-->
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+<script src="js/menucollapse.js"></script>
+<script type="text/javascript" src="js/arrow78.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
+
+<body id="page-top" class="index">
+
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"  data-target="#bs-example-navbar-collapse-2" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="glyphicon glyphicon-search"></span>
+            </button>
+            <button id="button2" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <span><a href="#"><img border="0" height="50" width="85" src="https://www.cs.uic.edu/~llyons/UIC_logo.PNG"/></a></span>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                Home<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                    <li><a onclick="javascript:reset_menus();$('#tab-1-content').show();" href="#intro">Introduction</a></li>
+                        <li><a href="bio.html">Short Biography</a></li>
+                        <li><a target="_blank" href="rahsan3.pdf">Resume</a></li>
+                    </ul>
+                </li>
+                <li class="page-scroll">
+                    <a onclick="javascript:reset_menus();$('#tab-4-content').show();" href="#courses">Courses</a>
+                </li>
+                <li class="page-scroll">
+                    <a onclick="javascript:reset_menus();$('#tab-6-content').show();" href="#projects">Projects</a>
+                </li>
+                <li class="page-scroll">
+                    <a onclick="javascript:reset_menus();$('#tab-5-content').show();" href="#awards">Awards</a>
+                </li>
+                <li class="page-scroll">
+                    <a onclick="javascript:reset_menus();$('#tab-9-content').show();" href="#contact">Contact</a>
+                </li>
+                <li class="page-scroll">
+                    <a onclick="javascript:reset_menus();$('#bs-example-navbar-collapse-2').toggle();">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </a>
+                </li>
+            </ul>
+        </div><!-- /.navbar-collapse -->
+
+        <!-- search box submenu -->
+        <div class="collapse" id="bs-example-navbar-collapse-2">
+            <gcse:search></gcse:search>
+        </div>
+
+    </div><!-- /.container-fluid -->
+</nav>
+
+<section>
+    <!-- Place this tag where you want the search results to render -->
+    <gcse:searchresults-only></gcse:searchresults-only>
+</section>
+
+<!-- Home Section -->
+<section id="home" style="margin-top:40px">
+<div class="container">
+        <div align="left" class="col-md-3">
+            <a target="_blank" href="https://photos.app.goo.gl/6osGphKF7BetU20r2">
+                <img id="mobile-img" src="images/rahsan3.small.jpg" width="225" border="0" height="225" alt=""></a>
+        </div>
+        <div align="left" class="col-md-4">
+            <h3>Ragib Ahsan
+                <h5>Ph.D. Candidate at University of Illinois at Chicago</h5></h3>
+
+            Department of Computer Science<br>
+            University of Illinois at Chicago<br>
+            851 S Morgan St, Chicago IL 60607<br>
+            Tel: <a href="tel:13129963422">312-996-3422</a><br/>
+            Email:
+            <script language="JavaScript">
+                <!--
+                document.write("&nbsp;");
+                spiderjam('rahsan3','uic.edu');
+                -->
+            </script><br/>
+            Directions: <a target="_blank" href="https://goo.gl/YgEq6n">https://goo.gl/YgEq6n</a>
+            </h4>
+        </div>
+
+        <i class="twittertop" style="display:none;" id="t1">
+        <div id="news" tyle="text-align: left"  class="col-md-5">&nbsp;
+            <center>
+                <!-- <a class="twitter-timeline" data-width="500" data-height="230" data-theme="light" href="https://twitter.com/ragib06?ref_src=twsrc%5Etfw">Tweets by ragib06</a>
+                <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+                <!-- <iframe width="400" height="200" src="https://www.youtube.com/embed/-z2kIoJ6_8M" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> -->
+                <iframe width="250" height="200" src="https://graph-tool.skewed.de/static/doc/_downloads/dancing.webm" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+                
+            </center>
+        </div>
+        </i>
+
+        <!--<p><a href="#" class="btn btn-primary">More &raquo;</a></p>-->
+        <i class="expandshow" style="display:none;" id="tab-1">
+            <button class="btn btn-primary btn-lg btn-block" style="width: 100%;" onclick="javascript:$('.allshow').show();$('.noshow').hide();$('.collapseshow').show();$('.expandshow').hide();">EXPAND ALL SECTIONS <span class="glyphicon glyphicon-chevron-down"></span></button>
+        </i>
+        <i class="collapseshow" style="display:none;" id="tab-1">
+            <button class="btn btn-primary btn-lg btn-block" style="display: block; width: 100%;" onclick="javascript:$('.allshow').hide();$('.noshow').show();$('.expandshow').show();$('.collapseshow').hide();">COLLAPSE ALL SECTIONS <span class="glyphicon glyphicon-chevron-up"></span></button>
+        </i>
+
+    </div>
+</section>
+
+<!-- Home Section -->
+<section id="intro">
+    <div class="container lead">
+        <div style="text-align: left; margin-top:10px" class="col-md-12">
+            <!--<h2>Welcome!</h2>-->
+
+            <i class="noshow" style="display:none;" id="tab-1">
+            <button class="btn btn-default btn-lg btn-block" style="display: block; width: 100%;" onclick="javascript:$('#tab-1-content').toggle();">Introduction <span class="glyphicon glyphicon-chevron-right"></span></button>
+            </i>
+
+            <div class="allshow" style="display:none;" id="tab-1-content">
+            <hr class="star-primary">
+
+            <p class="lead">I am a third year <a target="_blank" href="http://cs.uic.edu/">Computer Science</a> PhD candidate in <a target="_blank" href="http://www.uic.edu/">University of Illinois at Chicago</a>. I have compelted my B.Sc. in Computer Science and Engineering from <a href="http://cse.buet.ac.bd/" target="_blank">Bangladesh University of Engineering and Technology</a> (2012). I have worked as a Software Engineer at Playdom Bangladesh Private Limited prior to pursuing PhD.
+            </p>
+            <p>
+            My research interests include <b>Machine Leanring</b> and <b>Data Mining</b>. In particular I'm interested in application of <b>Active Leanring</b> in <i>Relataional Data</i>.
+            </p>
+
+            <p>
+                <!-- <a href="bio.html" class="btn-sm btn-primary">Short Biography &raquo;</a> -->
+                <!-- <a href="cv.html" class="btn-sm btn-primary">CV (Web)&raquo;</a> -->
+                <a target="_blank" href="rahsan3.pdf" class="btn-sm btn-primary">CV (PDF)&raquo;</a>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- News Section -->
+<!-- <div class="twitterlow" style="display:none;" id="t1">
+<section id="news">
+    <div class="container lead">
+        <div style="text-align: left; margin-top:10px" class="col-md-12">
+
+            <i class="noshow" style="display:none;" id="tab-2">
+                <button class="btn btn-default btn-lg btn-block" style="display: block; width: 100%;" onclick="javascript:$('#tab-2-content').toggle();">News  <span class="glyphicon glyphicon-chevron-right"></span></button>
+            </i>
+            <i class="allshow" style="display:none;" id="tab-2-content">
+
+            <hr class="star-primary">
+
+            <h2>News</h2>
+            <center>
+                <a class="twitter-timeline" data-width="500" data-height="230" data-theme="light" href="https://twitter.com/ragib06?ref_src=twsrc%5Etfw">Tweets by ragib06</a> 
+                <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </center>
+            </i>
+        </div>
+    </div>
+</section>
+</div> -->
+
+<!-- Research Section -->
+<!-- <section id="publications">
+    <div class="container lead">
+        <div style="text-align: left; margin-top:10px" class="col-md-12">
+
+            <i class="noshow" style="display:none;" id="tab-3">
+                <button class="btn btn-default btn-lg btn-block" style="display: block; width: 100%;" onclick="javascript:$('#tab-3-content').toggle();">Publications  <span class="glyphicon glyphicon-chevron-right"></span></button>
+            </i>
+            <div class="allshow" style="display:none;" id="tab-3-content">
+            <hr class="star-primary">
+
+            <h2>Selected Publications <a href="publications/" class="btn btn-primary">All Publications&raquo;</a></h2>
+            <h4>
+            <span class="label label-warning">
+                <a target="_blank" href="https://en.wikipedia.org/wiki/H-index"><font color=white>h-index</font></a>: 21
+            </span>&nbsp;
+            <span class="label label-warning">
+               <a target="_blank" href="https://scholar.google.com/citations?user=HCxwGIkAAAAJ&hl=en"><font color=white>Citations</font></a>: 2041
+            </span>&nbsp;
+            <span class="label label-warning">
+                <a target="_blank" href="https://en.wikipedia.org/wiki/Erd&ouml;s_number"><font color="white">Erd&ouml;s #</font></a>: 3
+            </span>
+            </h4>
+
+            <ul>
+                 <li><span class="label label-success">Elsevier InfoSys'16</span> <a target="_blank" href="http://www.cs.ucy.ac.cy/~dzeina/papers/infosys16-proxplus.pdf">"Crowdsourcing Emergency Data in Non-Operational Cellular Networks"</a>, Georgios Chatzimilioudis, Constantinos Costa, Demetrios Zeinalipour-Yazti and Wang-Chien Lee, <b>Information Systems (InfoSys'16)</b>, Elsevier Science Ltd., Vol. xx, Iss. x, pp. x-x, Oxford UK, 2016. <font color="red">(in press)</font>.</li>
+            </ul>
+            <p><a href="publications/" class="btn btn-primary">All Publications &raquo;</a>
+            </p>
+            </div>
+        </div>
+    </div>
+</section> -->
+
+<!-- Courses Section -->
+<section id="courses">
+    <div class="container lead">
+        <div style="text-align: left; margin-top:10px" class="col-md-12">
+
+            <i class="noshow" style="display:none;" id="tab-1">
+                <button class="btn btn-default btn-lg btn-block"  style="display: block; width: 100%;" onclick="javascript:$('#tab-4-content').toggle();">Courses  <span class="glyphicon glyphicon-chevron-right"></span></button>
+            </i>
+            <div class="allshow" style="display:none;" id="tab-4-content">
+            <hr class="star-primary">
+            <h2>Courses Completed</h2>
+            <ul>
+                <li><span class="label label-danger">CS 594</span> <a target="_blank" href="https://www.cs.uic.edu/~elena/courses/fall17/cs594dsn.html">Data Science For Networks</a> (Fall'17)</li>
+                <li><span class="label label-default">CS 590</span> Research Methods (Spring'17)</li>
+                <li><span class="label label-primary">CS 474</span> Object-Oriented Languages and Environments (Spring'17)</li>
+                <li><span class="label label-warning">CS 594</span> <a target="_blank" href="https://www.cs.uic.edu/~zhangx/teaching/course_aml.pdf">Numerical Optimization with Deep Learning</a> (Fall'16)</li>
+                <li><span class="label label-success">CS 566</span> <a target="_blank" href="https://www.cs.uic.edu/~ajayk/c566/c566fa16.html">Parallel Processing</a> (Fall'16)</li>
+                <li><span class="label label-warning">CS 412</span> Introduction to Machine Learning (Spring'16)</li>
+                <li><span class="label label-primary">CS 421</span> <a target="_blank" href="https://www.cs.uic.edu/pub/DiEugenio/Teaching/nlp-syllabus2016.pdf">Natural Language Processing</a> (Spring'16)</li>
+                <li><span class="label label-success">CS 583</span> <a target="_blank" href="https://www.cs.uic.edu/~liub/teach/cs583-fall-15/cs583.html">Data Mining and Text Mining</a> (Fall'15)</li>
+                <li><span class="label label-primary">CS 401</span> Computer Algorithms I (Fall'15)</li>
+            </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="projects">
+    <div class="container lead">
+        <div style="text-align: left; margin-top:10px" class="col-md-12">
+
+            <i class="noshow" style="display:none;" id="tab-1">
+                <button class="btn btn-default btn-lg btn-block"  style="display: block; width: 100%;" onclick="javascript:$('#tab-4-content').toggle();">Courses  <span class="glyphicon glyphicon-chevron-right"></span></button>
+            </i>
+            <div class="allshow" style="display:none;" id="tab-4-content">
+            <hr class="star-primary">
+            <h2>Academic Projects</h2>
+            <ul>
+                <li><span class="label label-danger">De-bias Learning-To-Rank</span> As part of CS 594, we explored techniques to de-bias a Learning-To-Rank (LTR) system. We used <a target="_blank" href="http://mfile.narotama.ac.id/files/Umum/Jurnal%20MIT/Yahoo!%20learning%20to%20rank%20challenge%20overview.pdf">Yahoo Learning To Rank Challenge</a> dataset. </li>
+                <li><span class="label label-primary">Smart Pointer</span> As part of CS 474, implemented a <a target="_blank" href="https://drive.google.com/file/d/0B7MGb9g90dk5MFIxNkJIM3R1a2s/view?usp=sharing">Smart Pointer class for vehicle inventory system</a> in C++ dataset. </li>
+                <li><span class="label label-warning">Keyphrase Extraction</span> As part of CS 594, implemented a Joint RNN and LSTM for <a target="_blank" href="https://drive.google.com/file/d/0B7MGb9g90dk5ODdBbmZpYVlKTVk/view?usp=sharing">automatically extracting keyphrase from tweets</a>. We worked with Torch 7, Python and google word2vec trained models.</li>
+                <li><span class="label label-warning">Optical Character Recognition</span> As part of CS 594, implemented <a target="_blank" href="https://drive.google.com/file/d/0B7MGb9g90dk5cjZaWWhCc1FCS3c/view?usp=sharing"> CRF for optical character recognition (OCR)</a> using PETSc and Torch.</li>
+                <li><span class="label label-primary">Cause-Effect Pair Detection</span> As part of CS 412, implemented and compared several classifiers <a target="_blank" href="https://www.kaggle.com/c/cause-effect-pairs/"> Cause-Effect pair detection in an archives Kaggle challenge.</a></li>
+                <li><span class="label label-success">IBM Watsom</span> As part of CS 421, implemented a <a target="_blank" href="https://github.com/ragib06/miniwatson"> miniature version of IBM Watson</a> using Python NLTK.</li>
+                <li><span class="label label-primary">Tweet Sentiment Classifier</span> As part of CS 583, implemented a sentiment classifier for tweets on electoral candidates Obama and Romney.</li>
+            </ul>
+
+            <h2>Professional Projects</h2>
+            <ul>
+                <li><span class="label label-primary">GetGiftz</span> A gift card distribution ios app. Worked with Tango RaaS, Parse could service.</li>
+                <li><span class="label label-default">The Goal Line</span> A fun filled <a target="_blank" href="http://goo.gl/jxEZKx"> casual game </a> with simple one touch control and a soccer/football theme. Worked with Unity Game Engine, C#</li>
+                <li><span class="label label-warning">Marvel: Avengers Alliance</span> Turn-based <a target="_blank" href="http://goo.gl/xVYYSz"> arcade social game </a>. It is based on characters and story lines published by Marvel Comics, and written by Alex Irvine. </li>
+                <li><span class="label label-success">Blackwood And Bell Mysteries Mobile</span> A popular iOS hidden object game based on detective cases.</li>
+                <li><span class="label label-primary">Wild Ones</span> A turn based multiplayer 2D arcade game. Worked with custom Physics engine, Actionscript 3.</li>
+                <li><span class="label label-warning">Apertium</span> As part of GSoC 2011, contributed to an open source machine translation projct to adopt Bengali-English langauge pair.</a></li>
+            </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Awards Section -->
+<section id="awards">
+    <div class="container lead">
+        <div style="text-align: left; margin-top:10px" class="col-md-12">
+
+            <i class="noshow" style="display:none;" id="tab-1">
+                <button class="btn btn-default btn-lg btn-block"  style="display: block; width: 100%;" onclick="javascript:$('#tab-5-content').toggle();">Awards  <span class="glyphicon glyphicon-chevron-right"></span></button>
+            </i>
+            <div class="allshow" style="display:none;" id="tab-5-content">
+
+            <hr class="star-primary">
+            <h2>Selected Awards</h2>
+            <ul>
+                <li><span class="label label-danger">ITA</span> Finalist (Top 50) in ITA Tech Challenge 2015</span></li>
+                <li><span class="label label-warning">GSoC 2011</span> Participated in <a target="_blank" href="https://www.google-melange.com/archive/gsoc/2011/orgs/apertium/projects/ragib06.html">Google Summer of Code 2011</a>as a student developer, 2011.</span></li>
+                <li><span class="label label-primary">ITEE</span> Ranked 10th in ITEE contest organised by MOSICT and JICA, 2010.</span></li>
+                <li><span class="label label-danger">ICPC</span> Ranked 8th in the ACM ICPC Regional: Dhaka Site, 2009</span></li>
+                <li><span class="label label-warning">NCPC</span> Ranked 4th in the IUT ICT Fest National Programming Contest, 2009</span></li>
+                <li><span class="label label-success">Scholarship</span> Got university merit scholarship for excellent result in a semester, 2008</span></li>
+                <li><span class="label label-primary">BdMO</span> Group champion in 4th Bangladesh Mathematical Olympiad (Regional) in higher secondary category, 2006</span></li>
+                <li><span class="label label-primary">BdMO</span> Ranked 3rd (group) in 1st Bangladesh Mathematical Olympiad (National) in secondary category, 2003</span></li>
+            </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Service Section -->
+<!-- <section id="service">
+
+    <div class="container lead">
+        <div style="text-align: left; margin-top:10px" class="col-md-12">
+
+            <i class="noshow" style="display:none;" id="tab-6">
+                <button class="btn btn-default btn-lg btn-block"  style="display: block; width: 100%;" onclick="javascript:$('#tab-6-content').toggle();">Service  <span class="glyphicon glyphicon-chevron-right"></span></button>
+            </i>
+            <div class="allshow" style="display:none;" id="tab-6-content">
+
+           <hr class="star-primary">
+           <h2>Professional Service <a href="cv.html#SECTION00070000000000000000" class="btn btn-primary">More &raquo;</a></h2>
+
+           <p>
+           <span class="label label-success">Conference Committees</span>
+           <ul>
+               <li>
+                   <b>ACM SIGMOD:</b>
+                   <a href="http://www.sigmod2015.org/org_sigmod_pc.shtml" target="_blank"><b>2015</b></a>,
+                   <a href="http://www.sigmod2014.org/org_sigmod_demo_pc.shtml" target="_blank">2014</a>,
+                   <a href="http://www.sigmod.org/2013/org_sigmod_demo_pc.shtml" target="_blank">2013</a>,
+                   <a href="http://www.sigmod.org/2012/org_sigmod_demo_pc.shtml" target="_blank">2012</a>
+                   <i>[ACM's Management of Data Conference]</i>
+               </li>
+               <li>
+                   <b>ACM SIGKDD:</b>
+                   <a href="http://www.kdd.org/kdd2011/" target="_blank">2011</a>
+                   <i>[ACM's Intl. Knowledge Discovery and Data Mining Conference]</i>
+               </li>
+               <li>
+                   <b>ACM CIKM:</b>
+                   <a href="http://www.yorku.ca/cikm10/" target="_blank">2010</a>
+                   <i>[ACM's Intl. Conference on Information and Knowledge Management]</i>
+               </li>
+                <li>
+                    <b>IEEE ICDE:</b>
+                    <a href="http://icde2016.fi/committees.php" target="_blank"><b>2016</b></a>,
+                    <a href="http://ieee-icde2014.eecs.northwestern.edu/pc.html" target="_blank">2014</a>,
+                    <a href="http://www.icde2013.org/" target="_blank">2013</a>,
+                    <a href="http://www.icde2011.org/" target="_blank">2011</a>,
+                    <a href="http://i.cs.hku.hk/icde2009/" target="_blank">2009</a>
+                    <i>[IEEE's Intl. Conference on Data Engineering]</i>
+                </li>
+                <li>
+                    <b>IEEE ICDCS:</b>
+                    <a href="http://www-higashi.ist.osaka-u.ac.jp/icdcs2016/" target="_blank"><b>2016</b></a>
+                    <i>[IEEE's Intl. Conference on Distributed Computing Systems]</i>
+                </li>
+                <li>
+                    <b>IEEE MDM:</b>
+                    <a href="http://mdmconferences.org/mdm2016/#committees" target="_blank"><b>2016</b></a>
+                    (and <font color="green">Tutorials Co-Chair</font> with <a href="https://www.cs.ualberta.ca/~mn/" target="_blank">Mario Nascimento</a>),
+                    <a href="http://mdmconferences.org/mdm2015/committees.html"><b>2015</b></a>
+                    (and <font color="green">Workshops Co-Chair</font> with <a href="http://www.cse.psu.edu/%7Ewlee/" target="_blank">Wang-Chien Lee</a>),
+                    <a href="http://mdmconferences.org/mdm2014/">2014</a></b>
+                    (and <font color="green">Panel Co-Chair</font> with <a href="http://www.csse.monash.edu.au/%7Eshonali/" target="_blank">Shonali Krishnaswamy</a>),
+                    <a href="http://mdm2013.dico.unimi.it/">2013</a></b>
+                    (and <font color="green">Demo Co-Chair</font> with <a href="http://www.cse.unt.edu/%7Ehuangyan/" target="_blank">Yan Huang</a>),
+                    <a href="http://mdmconferences.org/mdm2012/">2012</a></b>,
+                    <a href="http://mdmconferences.org/mdm2011/">2011</a></b>,
+                    <a href="http://www.sce.umkc.edu/mdm2010/">2010</a></b>
+                    (<font color="red"><b>PC Co-Chair</b></font> with <a href="http://sce2.umkc.edu/csee/kumarv/" target="_blank">Vijay Kumar</a> and <a href="http://www-nishio.ist.osaka-u.ac.jp/%7Ehara/" target="_blank">Takahiro Hara</a>),
+                    <a href="http://idke.ruc.edu.cn/mdm2008/">2008</a></b>
+                    <i>[IEEE's Intl. Conference on Mobile Data Management]</i>
+                </li>
+                <li>
+                    <b>IEEE ICDM:</b>
+                    <a href="http://datamining.it.uts.edu.au/icdm10/" target="_blank">2010</a>
+                    (and <font color="green">Contest Chair</font>)
+                    <i>[IEEE's Intl. Conference of Data Mining]</i>
+                </li>
+                <li>
+                    <b>VLDB:</b>
+                    <a href="http://vldb2016.persistent.com/call_demonstrations.html" target="_blank"><b>2016</b></a>,
+                    <a href="http://www.vldb.org/2014/call_demonstrations.html" target="_blank">2014</a>,
+                    <a href="http://vldb.org/2013/call_demonstrations.html" target="_blank">2013</a>
+                    <i>[Intl. Conference on Very Large Data Bases]</i>
+                </li>
+                <li>
+                    <b>EDBT:</b>
+                    <a href="http://edbticdt2016.labri.fr/?EDBT16_Commitee" target="_blank"><b>2016</b></a>
+                    <i>[Intl. Conference on Extending Database Technology]</i>
+                </li>
+                <li>
+                    <b>ECML/PKDD:</b>
+                    <a href="http://www.ecmlpkdd2015.org/" target="_blank"><b>2015</b></a>,
+                    <a href="http://www.ecmlpkdd2014.org/" target="_blank">2014</a>,
+                    <a href="http://www.ecmlpkdd2011.org/" target="_blank">2011</a>
+                    <i>[European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases]</i>
+                </li>
+                <li>
+                    <b>SSDBM:</b>
+                    <a href="http://www.ssdbm2013.org/" target="_blank">2013</a>
+                    <i>[Intl. Conference on Scientific and Statistical Data Management]</i>
+                </li>
+            </ul>
+
+            <span class="label label-success">Workshop and Symposia Committees</span>
+            <ul>
+                <li>
+                    <b>ACM ExploreDB:</b>
+                    <a href="https://sites.google.com/site/exploredb2016/organization" target="_blank"><b>2016</b></a>,
+                    <a href="https://sites.google.com/site/exploredb2015/organization" target="_blank"><b>2015</b></a>,
+                    <a href="https://sites.google.com/site/exploredb2014/organization" target="_blank">2014</a>
+                    <i>[Intl. Workshop on Exploratory Search in Databases and the Web @ ACM SIGMOD]</i>
+                </li>
+                <li>
+                    <b>ACM GeoRich:</b>
+                    <a href="http://www.dbs.ifi.lmu.de/georich16/organizer.php" target="_blank"><b>2016</b></a>
+                    <i>[Intl. Workshop on Managing and Mining Enriched Geo-Spatial Data @ ACM SIGMOD]</i>
+                </li>
+                <li>
+                    <b>ACM ISA:</b>
+                    <a href="http://stem.cs.pusan.ac.kr/isa2015/committee.html" target="_blank"><b>2015</b></a>
+                    <i>[Intl. Workshop Indoor Spatial Awareness @ ACM SIGSPATIAL]</i>
+                </li>
+                <li>
+                    <b>ACM BigMine:</b>
+                    <a href="http://bigdata-mining.org/organization/" target="_blank">2013</a>,
+                    <a href="http://bigdata-mining.org/organization/" target="_blank">2012</a>
+                    <i>[Intl. Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications @ ACM SIGKDD]</i>
+                </li>
+                <li>
+                    <b>ACM MobiDE:</b>
+                    <a href="http://pages.cs.brandeis.edu/%7Emobide12/" target="_blank">2012</a>,
+                    <a href="http://archive.itee.uq.edu.au/%7Emobide11/" target="_blank">2011</a>
+                    (and <font color="green">Steering Committee</font>),
+                    <a href="http://www.softnet.tuc.gr/mobide10/" target="_blank">2010</a>
+                    (and <font color="green">General Co-Chair</font> with <a href="http://www.pittsburgh.intel-research.net/people/gibbons/" target="_blank">Phillip B. Gibbons</a>),
+                    <a href="http://www.cs.fsu.edu/mobide09/Organization.html" target="_blank">2009</a>
+                    (<font color="red"><b>PC Co-Chair</b></font> with <a href="http://www.cs.ou.edu/%7Edatabase/faculty.htm" target="_blank">Le Gruenwald</a>),
+                    <a href="http://www.cs.ucy.ac.cy/mobide08/" target="_blank">2008</a>
+                    (and <font color="green">Publicity Chair</font>),
+                    <a href="http://www.cse.psu.edu/mobide07/" target="_blank">2007</a>,
+                    <i>[Intl. Workshop on Data Engineering for Wireless and Mobile Access @ ACM SIGMOD]</i>
+                </li>
+                <li>
+                    <b>IEEE HuMoComP:</b>
+                    <a href="http://humocomp15.cs.ucy.ac.cy/" target="_blank"><b>2015</b></a>
+                    (<font color="red"><b>PC Co-Chair</b></font> with <a href="http://www.pitt.edu/~kpele/" target="_blank">Konstantinos Pelechrinis</a>, <a href="http://people.cs.pitt.edu/~adamlee/" target="_blank">Adam J. Lee</a> and <a href="http://web.imis.athena-innovation.gr/~mter/" target="_blank">Manolis Terrovitis</a>),
+                    <i>[Intl. Workshop On Human Mobility Computing And Privacy @ IEEE MDM]</i>
+                </li>
+                <li>
+                    <b>IEEE Mobisocial:</b>
+                    <a href="http://www.iis.sinica.edu.tw/%7Ednyang/mobisocial" target="_blank"><b>2015</b></a>,
+                    <a href="http://www.iis.sinica.edu.tw/%7Ednyang/mobisocial" target="_blank">2014</a>,
+                    <a href="http://www.iis.sinica.edu.tw/%7Ednyang/mobisocial" target="_blank">2013</a>,
+                    <i>[Intl. Workshop on Mobile Data Management, Mining, and Computing on Social Networks  @ IEEE MDM]</i>
+                </li>
+                <li>
+                    <b>DMSN:</b>
+                    <a href="http://www.softnet.tuc.gr/dmsn11/" target="_blank">2011</a>
+                    (and <font color="green">General Co-Chair</font> with <a href="http://www.cse.psu.edu/%7Ewlee/" target="_blank">Wang-Chien Lee</a>),
+                    <a href="http://www.cs.ucy.ac.cy/~dmsn10/" target="_blank">2011</a>
+                    (and <font color="red"><b>PC Co-Chair</b></font> with <a href="http://www.cse.psu.edu/%7Ewlee/" target="_blank">Wang-Chien Lee</a>),
+                    <a href="http://dmsn09.ethz.ch/" target="_blank">2009</a>,
+                    <a href="http://dmsn08.cs.umass.edu/" target="_blank">2008</a>,
+                    <a href="http://data.cs.washington.edu/dmsn07/" target="_blank">2007</a>
+                     <i>[Intl. Workshop on Data Management for Sensor Networks @ VLDB]</i>
+                </li>
+                <li>
+                    <b>MUD:</b>
+                    <a href="http://www.insight-ict.eu/mud/" target="_blank">2014</a>
+                    <i>[Intl. Workshop on Mining Urban Data @ EDBT/ICDT]</i>
+                </li>
+                <li>
+                    <b>HDMS:</b>
+                    <a href="http://hdms15.cs.aueb.gr/index.php/en/organizing-committee" target="_blank"><b>2015</b></a>,
+                    <a href="http://hdms2012.softnet.tuc.gr/index_en.html" target="_blank">2012</a>,
+                    <a href="http://hdms11.di.uoa.gr/index.php?lang=en" target="_blank">2011</a>,
+                    <a href="http://www.cs.ucy.ac.cy/%7Ehdms2010/en" target="_blank">2010</a>
+                    (and <font color="green">Local Arrangements and Poster Chair</font>),
+                    <a href="http://dmsn09.ethz.ch/" target="_blank">2009</a>,
+                    <a href="http://dmsn08.cs.umass.edu/" target="_blank">2008</a>,
+                    <a href="http://data.cs.washington.edu/dmsn07/" target="_blank">2007</a>
+                    <i>[Hellenic Data Management Symposium]</i>
+                </li>
+                <li>
+                    <b>Other:</b>
+                    PUCAA'13, UPGRADE-CN'11 (CCGrid), CDN'10 (CCGrid), EuroPar'10, IDAR'10 (SIGMOD), SeNTIE'08-10 (MDM), PAKDD'09, AINA'07-08
+                </li>
+            </ul>
+
+            <span class="label label-success">Journal and Magazine Referee</span>
+            <ul>
+                <li>
+                    <b>Journal Referee:</b>
+                    Springer's <a href="http://www.springer.com/computer/database+management+&amp;+information+retrieval/journal/778" target="_blank">VLDB Journal</a> (3),
+                    IEEE <a href="http://www.computer.org/tkde/" target="_blank">TKDE</a> (12),
+                    <a href="http://www.computer.org/tkde/" target="_blank">PPL</a> (1)
+                </li>
+
+                <li>
+                    <b>Magazine Referee</b>:
+                    <a href="http://www.computer.org/internet" target="_blank">Internet Computing</a> (2),
+                    <a href="http://www.comsoc.org/netmag" target="_blank">IEEE Network</a> (1)
+                </li>
+            </ul>
+            </p>
+            </div>
+        </div>
+    </div>
+</section> -->
+
+<!-- Courses Section -->
+<!-- <section id="advising">
+    <div class="container lead">
+        <div style="text-align: left; margin-top:10px" class="col-md-12">
+
+           <i class="noshow" style="display:none;" id="tab-7">
+                <button class="btn btn-default btn-lg btn-block"  style="display: block; width: 100%;" onclick="javascript:$('#tab-7-content').toggle();">Advising  <span class="glyphicon glyphicon-chevron-right"></span></button>
+            </i>
+           <div class="allshow" style="display:none;" id="tab-7-content">
+
+            <hr class="star-primary">
+            <h2>Advising <a href="cv.html#SECTION000110000000000000000" class="btn btn-primary">More &raquo;</a></h2>
+            <ul>
+                <li>
+                    <span class="label label-success">Postdoc</span> <a target="_blank" href="http://www.cs.ucy.ac.cy/~gchatzim/">George Chatzimilioudis</a>, Visiting Lecturer at the University of Cyprus, Cyprus.
+                </li>
+            </ul>
+            </div>
+        </div>
+    </div>
+</section> -->
+
+<!-- Home Section -->
+<section id="links">
+    <div class="container lead">
+        <div style="text-align: left; margin-top:10px" class="col-md-12">
+
+            <i class="noshow" style="display:none;" id="tab-8">
+                <button class="btn btn-default btn-lg btn-block"  style="display: block; width: 100%;" onclick="javascript:$('#tab-8-content').toggle();">Links  <span class="glyphicon glyphicon-chevron-right"></span></button>
+            </i>
+
+            <div class="allshow" style="display:none;" id="tab-8-content">
+
+            <hr class="star-primary">
+            <h2>Random Links</h2>
+            <ul>
+                <li><span class="label label-info">Books</span> I love reading books and discussing about it. Get in touch with me in <a target="_blank" href="https://www.goodreads.com/ragib06">Goodreads</a>.</li>
+                <!-- <li><span class="label label-danger"><a target="_blank" href="https://code.org/learn"><font color="white">Hour-of-Code</font></a></span> I support the hour of code iniative as a volunteer instructor.</a></li> -->
+                <li><span class="label label-primary"><a target="_blank" href="https://github.com/ragib06"><font color="white">Github</font></a></span> I love open-source code development.</a></li>
+                <!-- <li><span class="label label-warning"><a target="_blank" href="http://www.kyreniaship.org/"><font color="white">Kyrenia-Chrysocava</font></a></span> A project aimed to preserve the cultural heritage of the <a target="_blank" href="https://en.wikipedia.org/wiki/Kyrenia_ship">Kyrenia ship</a>.</li> -->
+                <li><span class="label label-success"><font color="white">Settlers of Catan</font></span> I love the board game "Settlers of Catan". I forked a <a target="_blank" href="https://ragib06.github.io/catan/">Catan Map Randomizer</a>.</li>
+            </ul>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Home Section -->
+<section id="contact">
+    <div class="container lead">
+        <div style="text-align: left; margin-top:10px" class="col-md-12">
+
+            <i class="noshow" style="display:none;" id="tab-9">
+                <button class="btn btn-default btn-lg btn-block"  style="display: block; width: 100%;" onclick="javascript:$('#tab-9-content').toggle();">Contact  <span class="glyphicon glyphicon-chevron-right"></span></button>
+            </i>
+            <div class="allshow" style="display:none;" id="tab-9-content">
+
+            <hr class="star-primary">
+            <h2>Contact</h2>
+            <div class="container lead">
+                <div align="left" class="col-md-3">
+                    <h4 class="myEN">
+                        ADDRESS
+                    </h4>
+
+                    <p class="myEN">
+                        Ragib Ahsan<br>
+                        Chicago IL 60657<br>
+                    </p>
+                    Email:
+                    <script language="JavaScript">
+                        <!--
+                        document.write("&nbsp;");
+                        spiderjam('rahsan3','uic.edu');
+                        -->
+                    </script><br>
+                </div>
+
+                <div align="left" class="col-md-3">
+                    <h4>CONTACT VCARD</h4>
+                    <p>
+                     <a href="rahsan3.vcf"><img src="images/rahsan3.png" border="0" width="150"><br>
+                     </a>
+
+                    <!--   <a href="zeinalipour.vcf" class="btn btn-primary">Get VCF Card &raquo;</a>-->
+                    </p>
+                </div>
+
+                <div align="left" class="col-md-3">
+                    <h4>OFFICE ADDRESS</h4>
+                    <p>Dept. of Computer Science<br/>
+                        851 S Morgan St<br/>
+                        Chicago IL 60607<br/>
+                        Tel: <a href="tel:3129963422">+312-9963422</a><br/>
+                        <br/>
+                    </p>
+                </div>
+
+                <div align="left" class="col-md-3">
+                    <h4>OFFICE DIRECTIONS</h4>
+                    <p><a href="https://goo.gl/YgEq6n" target="_blank"><img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=geo%3A41.8708057%2C-87.6504828%2C400&qzone=1&margin=0&size=400x400&ecc=L" border="0"
+                        width="150"> <br>
+                        </a>
+                    </p>
+                </div>
+        </div>
+        <hr class="star-primary">
+        </div>
+
+</section>
+
+<hr class="star-primary">
+<footer>
+    <small>
+    <center>
+        © 2017 | R. Ahsan. Credits: AR template
+    <a onclick="javascript:$('#credit').toggle();"><img border="0" src="images/ccby.png"/></a>
+    <div style="display:none;" id="credit">[AR template available under Creative Commons CC BY 4.0 licence: 
+    <a href="https://github.com/dmsl/academic-responsive-template"_blank">
+        https://github.com/dmsl/academic-responsive-template
+    </a> ]
+    </div>
+    </center>
+    </small>
+</footer>
+
+</body>
+
+</html>

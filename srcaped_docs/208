@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    
+    <title>Kiran Patel</title>
+
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="DevResume - Bootstrap 4 Resume/CV Template For Software Developers">
+    <meta name="author" content="CowboySmall">
+
+    <link rel="shortcut icon" href="favicon.ico">
+
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900">
+    
+    
+    <link rel="stylesheet" href="https://kpate352.people.uic.edu/assets/css/devresume.min.b979143678ff17e58aa69341c6e61927122ad2f5f8b9dcb4b3330d378bf118dd.css">
+
+
+</head>
+
+<body>
+
+    <div class="main-wrapper">
+
+        <div class="container px-3 px-lg-5">
+
+            <article class="resume-wrapper mx-auto theme-bg-light p-5 mb-5 my-5 shadow-lg">
+
+                
+                <div class="resume-header">
+
+                    <div class="row align-items-center">
+
+                        
+                        
+                        <div class="resume-title col-12 col-md-6 col-lg-8 col-xl-9">
+                            <h2 class="resume-name mb-0 text-uppercase">Kiran Patel</h2>
+                            <div class="resume-tagline mb-3 mb-md-0">Ph.D. student at the University of Illinois at Chicago (UIC)</div>
+                        </div>
+
+                        
+
+                        
+                        
+                        <div class="resume-contact col-12 col-md-6 col-lg-4 col-xl-3">
+                            <ul class="list-unstyled mb-0">
+                                
+                                <li class="mb-2"><i class="fas fa-envelope-square fa-fw fa-lg mr-2"></i><a class="resume-link" href="mailto:kpate352@uic.edu">kpate352@uic.edu</a></li>
+                                
+                                <li class="mb-2"><i class="fas fa-globe fa-fw fa-lg mr-2"></i><a class="resume-link" href="http://kpate352.people.uic.edu">http://kpate352.people.uic.edu</a></li>
+                                
+                                <li class="mb-2"><i class="fas fa-file fa-fw fa-lg mr-2"></i><a class="resume-link" href="assets/files/Kiran_Patel_CV.pdf">CV</a></li>
+                                
+                                <li class="mb-0"><i class="fas fa-map-marker-alt fa-fw fa-lg mr-2"></i>Chicago, IL</li>
+                            </ul>
+                        </div>
+
+                        
+
+                    </div>
+
+                </div>
+
+
+                <hr>
+
+                
+                
+                <div class="resume-intro py-3">
+
+                    <div class="media flex-column flex-md-row align-items-center">
+
+                        
+                        <img class="resume-profile-image mb-3 mb-md-0 mr-md-5 ml-md-0 rounded mx-auto" src="https://kpate352.people.uic.eduassets/images/profile.png" alt="image">
+                        
+
+                        <div class="media-body text-left">
+                            <p class="mb-0">Welcome! I am Kiran Patel, a second year Ph.D. student at UIC in the Electrical and Computer Engineering department where I am advised by Prof. Brent Stephens. I am broadly interested in computer architecture with particular emphasis on hardware design, FPGA development, and on-chip networks. As a part of my research I am currently focusing on the design of FPGA based programmable NICs and leverage FPGA cores to enable new network protocols, services, and offloads.</p>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                
+
+                <hr>
+
+                <div class="resume-body">
+
+                    <div class="row">
+
+                        <div class="resume-main col-12 col-lg-8 col-xl-9 pr-0 pr-lg-5">
+
+                            
+                            
+                            <section class="work-section py-3">
+
+                                <h3 class="text-uppercase resume-section-heading mb-4">Work Experience</h3>
+
+                                
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-6 mb-2 mb-md-0">Teaching Assistant</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-6 text-muted text-left text-md-right">University of Illinois at Chicago, Illinois USA | Fall 2019</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Freshman level, ECE 311 Communication Engineering | Lecturer: Prof. Besma Smida</p>
+                                        <ul class="resume-list">
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                                
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-6 mb-2 mb-md-0">Faculty Member</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-6 text-muted text-left text-md-right">Dept. of Electronics &amp; Telecom Engg | 2016 - 2017</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>National Institute of Technology, Raipur, C.G. India</p>
+                                        <ul class="resume-list">
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                                
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-6 mb-2 mb-md-0">Teaching Assistant</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-6 text-muted text-left text-md-right">Embedded System and Real Time Lab | 2015 - 2016</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>National Institute of Technology, Rourkela, Odisha India</p>
+                                        <ul class="resume-list">
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                                
+
+                            </section>
+
+                            
+
+                            
+                            
+                            <section class="project-section py-3">
+
+                                <h3 class="text-uppercase resume-section-heading mb-4">Projects</h3>
+
+                                
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Follow-up work on: Your Programmable NIC Should be a Programmable Switch, a.k.a., PANIC</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">UIC | Spring 2019 - Present</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>I am currently working on the follow-up work for PANIC, a new programmable NIC design under HotNets-2018-PANIC: Your Programmable NIC Should be a Programmable Switch. As a part of this work, we are trying to investigate the design of high throughput on-chip packet routing networks for programmable NICs and determining the performance characteristics and the energy and chip area costs of different on-chip network designs for a programmable NIC.</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Classification of Handwritten Digits using ML</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">UIC | Fall 2018</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Implemented a linear classifier on Intel DE1-SoC FPGA board to classify images of numbers ranging between 0 to 9. The ten class classification task was implemented in OpenCL language and the design was executed on FPGA with an accuracy of 90.87%.</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Hardware Architecture of Image de-noising model</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">NIT Rourkela, India | 2014-16 </div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Implemented the hardware architecture of Image de-noising model using Discrete Wavelet Transform (DWT) with the help of ‘Lifting Scheme’ technique in ModelSim and MATLAB software. Tested the implementation of CDF 5⁄3 hardware and denoising procedure but with lower time complexity.</p>
+                                    </div>
+                                </div>
+                                
+
+                            </section>
+
+                            
+
+                            
+                            
+                            <section class="project-section py-3">
+
+                                <h3 class="text-uppercase resume-section-heading mb-4">Information</h3>
+
+                                
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-12 col-lg-12 mb-2 mb-md-0">About me</h4>
+                                    </div>
+                                    <div class="item-content">
+                                        <p></p>
+                                        <ul class="list-unstyled resume-skills-list">
+                                            
+                                            <li class="mb-2">I completed my Masters of Technology in Electrical Engineering from National Institute of Technology, <a href="https://www.nitrkl.ac.in">(NIT), Rourkela</a>, where I specialized in Hardware architecture of Image processing models. I have a strong will to build a career in academia hence I joined the National Institute of Technology, <a href="http://www.nitrr.ac.in">(NIT), Raipur</a> as a faculty member in the Electronics and Telecommunication department. After spending a little time over there, I joined UIC as a doctoral student under the guidance of <a href="https://www.cs.uic.edu/~brents/">Prof. Brent Stephens</a> where we are trying to build new architectures for Network Interface Cards (NICs) and reconfigurable match table (RMT) switches.</li>
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                                
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-12 col-lg-12 mb-2 mb-md-0">Interests</h4>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Besides research, I enjoy doing modern calligraphy and handlettering. Thanks for reading!</p>
+                                        <ul class="list-unstyled resume-skills-list">
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                                
+
+                            </section>
+
+                            
+
+                        </div>
+
+                        
+                        <aside class="resume-aside col-12 col-lg-4 col-xl-3 px-lg-4 pb-lg-4">
+
+
+                            
+                            
+                            <section class="education-section py-3">
+
+                                <h3 class="text-uppercase resume-section-heading mb-4">Education</h3>
+
+                                <ul class="list-unstyled resume-education-list">
+                                    
+                                    <li class="mb-3">
+                                        <div class="resume-degree font-weight-bold">Ph.D., Electrical and Computer Engineering</div>
+                                        <div class="resume-degree-org text-muted">University of Illinois at Chicago, Illinois USA</div>
+                                        <div class="resume-degree-time text-muted">Spring 2019 - Present</div>
+                                    </li>
+                                    
+                                    <li class="mb-3">
+                                        <div class="resume-degree font-weight-bold">Graduate Non-Degree, Electrical and Computer Engineering</div>
+                                        <div class="resume-degree-org text-muted">University of Illinois at Chicago, Illinois USA</div>
+                                        <div class="resume-degree-time text-muted">Fall 2018</div>
+                                    </li>
+                                    
+                                    <li class="mb-3">
+                                        <div class="resume-degree font-weight-bold">M.Tech, Electrical Engineering</div>
+                                        <div class="resume-degree-org text-muted">National Institute of Technology, Rourkela, Odisha India</div>
+                                        <div class="resume-degree-time text-muted">2014-2016</div>
+                                    </li>
+                                    
+                                    <li class="mb-3">
+                                        <div class="resume-degree font-weight-bold">B.E., Electronics Engineering</div>
+                                        <div class="resume-degree-org text-muted">Shri Shankaracharya College of Engg. and Tech., C.G., India</div>
+                                        <div class="resume-degree-time text-muted">2009-2013</div>
+                                    </li>
+                                    
+                                </ul>
+
+                            </section>
+
+                            
+
+                            
+
+                            
+                            
+                            <section class="skills-section py-3">
+
+                                <h3 class="text-uppercase resume-section-heading mb-4">Skills</h3>
+
+                                
+                                <div class="item">
+                                    <h4 class="item-title">Technical</h4>
+                                    <ul class="list-unstyled resume-skills-list">
+                                        
+                                        <li class="mb-2">VHDL, Verilog</li>
+                                        
+                                        <li class="mb-2">ModelSim, Vivado, Xilinx ISE</li>
+                                        
+                                        <li class="mb-2">Keil, Proteus Design Suite</li>
+                                        
+                                        <li class="mb-2">P4</li>
+                                        
+                                        <li class="mb-2">C, MATLAB</li>
+                                        
+                                    </ul>
+                                </div>
+                                
+
+                            </section>
+
+                            
+
+                            
+                            
+                            <section class="skills-section py-3">
+
+                                <h3 class="text-uppercase resume-section-heading mb-4">Languages</h3>
+
+                                <ul class="list-unstyled resume-lang-list">
+                                    
+                                    <li class="mb-2">English <span class="text-muted">(Professional)</span></li>
+                                    
+                                    <li class="mb-2">Hindi <span class="text-muted">(Native)</span></li>
+                                    
+                                </ul>
+
+                            </section>
+
+                            
+
+                            
+                            
+                            <section class="skills-section py-3">
+
+                                <h3 class="text-uppercase resume-section-heading mb-4">Interests</h3>
+
+                                <ul class="list-unstyled resume-interests-list mb-0">
+                                    
+                                    <li class="mb-2">Calligraphy</li>
+                                    
+                                    <li class="mb-2">Modern Handlettering</li>
+                                    
+                                    <li class="mb-2">Traveling</li>
+                                    
+                                </ul>
+
+                            </section>
+
+                            
+
+                        </aside>
+
+
+                    </div>
+
+                </div>
+
+                <hr>
+
+                
+                
+                <div class="resume-footer text-center">
+
+                    <ul class="resume-social-list list-inline mx-auto mb-0 d-inline-block text-muted">
+                        
+                        <li class="list-inline-item mb-lg-0 mr-3">
+                            <a class="resume-link" href="https://github.com/kpate352/" target="_blank">
+                                <i class="fab fa-github-square fa-2x mr-2" data-fa-transform="down-4"></i>
+                                <span class="d-none d-lg-inline-block text-muted"></span>
+                            </a>
+                        </li>
+                        
+                        <li class="list-inline-item mb-lg-0 mr-3">
+                            <a class="resume-link" href="https://www.linkedin.com/in/kiran-patel-216874191/" target="_blank">
+                                <i class="fab fa-linkedin fa-2x mr-2" data-fa-transform="down-4"></i>
+                                <span class="d-none d-lg-inline-block text-muted"></span>
+                            </a>
+                        </li>
+                        
+                        <li class="list-inline-item mb-lg-0 mr-3">
+                            <a class="resume-link" href="https://twitter.com/Twitter" target="_blank">
+                                <i class="fab fa-twitter-square fa-2x mr-2" data-fa-transform="down-4"></i>
+                                <span class="d-none d-lg-inline-block text-muted"></span>
+                            </a>
+                        </li>
+                        
+                        <li class="list-inline-item mb-lg-0 mr-3">
+                            <a class="resume-link" href="assets/files/Kiran_Patel_CV.pdf" target="_blank">
+                                <i class="fas fa-file fa-2x mr-2" data-fa-transform="down-4"></i>
+                                <span class="d-none d-lg-inline-block text-muted">CV</span>
+                            </a>
+                        </li>
+                        
+                    </ul>
+
+                </div>
+
+                
+
+            </article>
+
+        </div>
+
+        <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1894.2">
+  <style type="text/css">
+  </style>
+</head>
+<body>
+</body>
+</html>
+
+
+    </div>
+
+    
+    
+    <script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous"></script>
+
+    
+
+
+</body>
+
+</html>

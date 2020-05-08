@@ -1,0 +1,2705 @@
+  
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie ie6 lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]><html class="no-js ie ie7 lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]><html class="no-js ie ie8 lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en-US"> <!--<![endif]-->
+
+    <head>
+
+<!-- Google Analytics script (RED and this site) -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    
+        ga('create', 'UA-20665772-1', 'auto');
+    
+    
+        ga('send', 'pageview');
+    
+      </script>
+<!-- End Google Analytics script (RED and this site) -->
+
+
+
+<!-- Google Tag Manager script for RED multisite -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+              (window,document,'script','dataLayer','GTM-W2Q8D2K');
+  </script>
+<!-- End Google Tag Manager script for RED multisite -->
+
+
+
+
+
+
+        <title>
+                            LCC Virtual Community | Rafael Cintrón Ortiz Latino Cultural Center | University of Illinois at Chicago
+                    </title>
+
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://latinocultural.uic.edu/xmlrpc.php" />
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+
+    <link rel="stylesheet" href="https://latinocultural.uic.edu/wp-content/themes/uic-red/main.css?v=1588698688" type="text/css" media="all" />
+    <link rel="stylesheet" href="https://latinocultural.uic.edu/wp-content/themes/uic-red/theinhardt.css?v=1588698688" type="text/css" media="all">
+
+    <link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//www.uic.edu' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/latinocultural.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='gforms_reset_css-css'  href='https://latinocultural.uic.edu/wp-content/plugins/gravityforms/css/formreset.min.css?ver=2.4.17' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css'  href='https://latinocultural.uic.edu/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=2.4.17' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css'  href='https://latinocultural.uic.edu/wp-content/plugins/gravityforms/css/readyclass.min.css?ver=2.4.17' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css'  href='https://latinocultural.uic.edu/wp-content/plugins/gravityforms/css/browsers.min.css?ver=2.4.17' type='text/css' media='all' />
+<link rel='stylesheet' id='gravity-forms-wcag-20-form-fields-css-css'  href='https://latinocultural.uic.edu/wp-content/plugins/gravity-forms-wcag-20-form-fields/css/gf_wcag20_form_fields.min.css?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://latinocultural.uic.edu/wp-includes/css/dist/block-library/style.min.css?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://latinocultural.uic.edu/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.12.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://latinocultural.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6'></script>
+<script type='text/javascript' src='https://latinocultural.uic.edu/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.4.17'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"https:\/\/latinocultural.uic.edu\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/latinocultural.uic.edu\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"https:\/\/latinocultural.uic.edu\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/latinocultural.uic.edu\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://latinocultural.uic.edu/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.4.17'></script>
+<script type='text/javascript' src='https://latinocultural.uic.edu/wp-content/plugins/gravityforms/js/jquery.textareaCounter.plugin.min.js?ver=2.4.17'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gf_wcag20_form_fields_settings = {"new_window_text":"this link will open in a new window","failed_validation":""};
+var gf_wcag20_form_fields_settings = {"new_window_text":"this link will open in a new window","failed_validation":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://latinocultural.uic.edu/wp-content/plugins/gravity-forms-wcag-20-form-fields/js/gf_wcag20_form_fields.min.js?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6'></script>
+<link rel='https://api.w.org/' href='https://latinocultural.uic.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://latinocultural.uic.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://latinocultural.uic.edu/wp-includes/wlwmanifest.xml" /> 
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//latinocultural.uic.edu/?wordfence_lh=1&hid=68D3EDEF3607FFAEC908BE1F45741629');
+</script>
+</head>
+      
+  <body>
+
+<!-- Google Tag Manager for RED multisite (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2Q8D2K" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager for RED multisite (noscript) -->
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <div class="l-page page-template-default page page-id-7454 page-parent post-type--page  site-type-a theme--blue no-sidebar  ">
+
+
+    <!--[if lte IE 9]>
+<div class="browser-stripe u-dark-region">
+  <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.</p>
+  </div>
+</div>
+<![endif]-->
+<div class="browser-stripe u-dark-region ie10">
+  <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.</p>
+  </div>
+</div>
+    
+<header class="l-header" role="banner">
+
+  
+  <div class="header-navigation">
+
+      <div id="skip" class="skip-menu assistive-text">
+  <p>
+    <span class="_main">
+    <a href="#article">Skip to the content of this page</a>,
+    </span>
+    <a class="_primary-menu" href="#menu-main">the main menu</a>,
+
+    
+    
+    <a class="_search" href="#search">the site search form</a>,
+
+    <a class="_home" href="https://latinocultural.uic.edu">the site home page</a>.
+  </p>
+</div>
+
+      <div class="eyebrow-mobile-wrapper js-eyebrow-mobile">
+<div class="eyebrow-mobile">
+            <div class="eyebrow-mobile-logo eyebrow-logo">
+            <a href="http://uic.edu" class="uic-logo-icon eyebrow-mobile-logo__uic-logo">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+<path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF " fill-rule="evenodd"/>
+</svg>
+</a>
+    </div>
+                <div class="site-title-eyebrow-mobile">
+          <a href="https://latinocultural.uic.edu">Rafael Cintrón Ortiz Latino Cultural Center</a>
+        </div>
+    
+    <button aria-label="Search the site" class="search-toggle-mobile js-search-toggle-mobile">
+  <span class="icon-search ">
+        <span class="assistive-text">Search the site</span>
+      </span>
+    </button>
+    <button class="nav-header-toggle js-nav-header-toggle">
+      <span class="icon-menu ">
+      Toggle Menu
+      </span>
+    </button>
+  </div>
+  <div class="search-input-container-mobile">
+    <div class="search-input-container-mobile__content">
+      <div class="search-title">
+        Search
+        <a class="search-close search-toggle-mobile">
+          <svg aria-label="Close search box" width="100%" height="100%" viewBox="0 0 22 22">
+            <use xlink:href="https://latinocultural.uic.edu/wp-content/themes/uic-red/images/svgs/svgs.svg#icon-close"></use>
+          </svg>
+        </a>
+      </div>
+      <form method="get" action="/search" role="search" aria-label="Search this site on your mobile device">
+        <input type="text" name="q" class="search-input-mobile" placeholder="Search..." tabindex="-1" aria-label="Search this site on your mobile device" disabled="">
+        <input type="submit" class="submit-button" name="search" value="Submit">
+      </form>
+    </div>
+  </div>
+</div>
+
+    <div class="header-navigation__eyebrow">
+
+                    <div class="header-navigation-logo header-logo">
+                        <a href="http://uic.edu" class="uic-logo-icon header-navigation-logo__uic-logo">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+<path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF " fill-rule="evenodd"/>
+</svg>
+</a>
+            </div>
+                <div class="header-navigation__eyebrow-menus">
+
+            <div class="header-navigation__logo-and-site-title">
+
+                                <div class="site-title-main ">
+                                      <a href="https://latinocultural.uic.edu">Rafael Cintrón Ortiz Latino Cultural Center</a>
+                                    </div>
+              
+            </div>
+          <nav class="header-menus js-header-menus " aria-label="Primary" role="navigation">
+
+  <div class="site-title-mobile-menu">
+    <a href="https://latinocultural.uic.edu">Rafael Cintrón Ortiz Latino Cultural Center</a>
+  </div>
+
+  
+  <h2 class="assistive-text">Main Menu</h2>
+  <ul id="menu-main" class="menu menu-main" aria-label="Main Menu">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-97 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/home/"
+        target="_self">
+
+        about
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand about menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand about menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-182">
+                <a 
+                  class="menu-main__second-link"
+                  href="/home/lcc-team/"
+                  target="_self">
+
+                  LCC Team Members
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-181">
+                <a 
+                  class="menu-main__second-link"
+                  href="/home/ambassadors-group/"
+                  target="_self">
+
+                  Ambassadors Group
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-130">
+                <a 
+                  class="menu-main__second-link"
+                  href="/home/get-involved/"
+                  target="_self">
+
+                  CCUSC &amp; Office of Diversity
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-5189">
+                <a 
+                  class="menu-main__second-link"
+                  href="/home/partners-and-supporters-2017-2018/"
+                  target="_self">
+
+                  Partners and Supporters
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-180">
+                <a 
+                  class="menu-main__second-link"
+                  href="/home/rafael-cintron-ortiz/"
+                  target="_self">
+
+                  Rafael Cintrón Ortiz
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-179">
+                <a 
+                  class="menu-main__second-link"
+                  href="/home/contact-visit-us/"
+                  target="_self">
+
+                  Contact / Visit Us
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-134 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/programs/"
+        target="_self">
+
+        programs
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand programs menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand programs menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-373">
+                <a 
+                  class="menu-main__second-link"
+                  href="/programs/upcoming-public-programs/"
+                  target="_self">
+
+                  All Public Programs CANCELED
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-374 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/programs/program-series/"
+                  target="_self">
+
+                  Public Program Series
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-375 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/programs/internships/"
+                  target="_self">
+
+                  Internship Programs
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-377 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/programs/dialogues-tours/"
+                  target="_self">
+
+                  ABC Dialogues &amp; Tours
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-174 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/programs/ls-ganas/"
+                  target="_self">
+
+                  L@s GANAS
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-378">
+                <a 
+                  class="menu-main__second-link"
+                  href="/programs/internships/heritage-garden-monarch-projects/"
+                  target="_self">
+
+                  Heritage Garden &amp; Monarch Projects
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-131 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/murals-exhibits/"
+        target="_self">
+
+        Murals &amp; Exhibits
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Murals &amp; Exhibits menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Murals &amp; Exhibits menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-206">
+                <a 
+                  class="menu-main__second-link"
+                  href="/murals-exhibits/awakening-of-the-americas-mural/"
+                  target="_self">
+
+                  “The Awakening of the Americas” Mural
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-371">
+                <a 
+                  class="menu-main__second-link"
+                  href="/murals-exhibits/social-pollinators-installation/"
+                  target="_self">
+
+                  "Social &amp; Environmental Pollinators" Installation
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-370">
+                <a 
+                  class="menu-main__second-link"
+                  href="/murals-exhibits/awakening-hearts-changing-lives-mural/"
+                  target="_self">
+
+                  "Awakening Hearts, Changing Lives" Mural
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-369 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/murals-exhibits/traveling-chocolate-exhibition/"
+                  target="_self">
+
+                  Traveling Chocolate Exhibition
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-202">
+                <a 
+                  class="menu-main__second-link"
+                  href="/murals-exhibits/old-mural/"
+                  target="_self">
+
+                  Old Mural: "Nuestra Esencia, Nuestra Presencia"
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-133 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/archives/"
+        target="_self">
+
+        archives
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand archives menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand archives menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-379">
+                <a 
+                  class="menu-main__second-link"
+                  href="/archives/annual-reports-documents/"
+                  target="_self">
+
+                  Annual Reports &amp; Documents
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-368">
+                <a 
+                  class="menu-main__second-link"
+                  href="/archives/40th-anniversary-celebration/"
+                  target="_self">
+
+                  40th Anniversary Celebration
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-380">
+                <a 
+                  class="menu-main__second-link"
+                  href="/archives/fua-archives/"
+                  target="_self">
+
+                  FUA Archives
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-367">
+                <a 
+                  class="menu-main__second-link"
+                  href="/archives/noche-de-poetas-archives/"
+                  target="_self">
+
+                  Noche de Poetas Archives
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-3927 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/archives/past-programs-by-year/"
+                  target="_self">
+
+                  Past Programs – by year
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-3875">
+                <a 
+                  class="menu-main__second-link"
+                  href="/archives/past-workers/"
+                  target="_self">
+
+                  Past LCC Team Members
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-365">
+                <a 
+                  class="menu-main__second-link"
+                  href="/archives/photos/"
+                  target="_self">
+
+                  Photos
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-364 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/archives/stories/"
+                  target="_self">
+
+                  Stories
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-104">
+                <a 
+                  class="menu-main__second-link"
+                  href="/archives/community-spotlight/"
+                  target="_self">
+
+                  Spotlights
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-372 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/resources/"
+        target="_self">
+
+        resources
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand resources menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand resources menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-362">
+                <a 
+                  class="menu-main__second-link"
+                  href="/resources/uic-latino-resource-guide/"
+                  target="_self">
+
+                  UIC Latino Resource Guide
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-361">
+                <a 
+                  class="menu-main__second-link"
+                  href="/resources/readings-references-tools/"
+                  target="_self">
+
+                  Readings, References, &amp; Tools
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-360">
+                <a 
+                  class="menu-main__second-link"
+                  href="/resources/daca-undocumented-resources/"
+                  target="_self">
+
+                  DACA &amp; Undocumented Resources
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-359">
+                <a 
+                  class="menu-main__second-link"
+                  href="/resources/disability-resources/"
+                  target="_self">
+
+                  Disability Resources
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-358">
+                <a 
+                  class="menu-main__second-link"
+                  href="/resources/affiliated-student-organizations/"
+                  target="_self">
+
+                  Affiliated Student Organizations
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-357">
+                <a 
+                  class="menu-main__second-link"
+                  href="/resources/community-resources/"
+                  target="_self">
+
+                  Community Resources
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-281">
+                <a 
+                  class="menu-main__second-link"
+                  href="/resources/get-involved-2/"
+                  target="_self">
+
+                  Get Involved
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-220">
+      <a 
+        class="menu-main__first-link"
+        href="/reservingthegallery/"
+        target="_self">
+
+        Reserve Gallery
+      </a>
+
+          </li>
+  </ul>
+
+  <div class="l-eyebrow">
+
+    <h2 class="assistive-text">Eyebrow menu</h2>
+    <ul id="menu-eyebrow" class="menu menu-eyebrow" aria-label="Eyebrow menu">
+            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-96">
+            <a  href="http://diversity.uic.edu" target="_blank">Office of DIversity</a>
+        </li>
+    </ul>
+
+    <h2 class="assistive-text">UIC menu</h2>
+    <ul class="menu-uic">
+      <li class="_item">
+    <a href="http://uic.edu">UIC.edu</a>
+  </li>
+  <li class="_item">
+    <a href="http://maps.uic.edu/">Campus Map</a>
+  </li>
+</ul>
+
+
+
+    <div aria-label="Primary" role="search" class="search-wrapper">
+
+      <button id="search" class="search-toggle">
+        <span class="icon-search ">
+          <span class="assistive-text">Search</span>
+        </span>
+      </button>
+
+      <div class="search-input-container">
+        <div class="search-input-container__form">
+          <form method="get" action="/search" >
+            <input type="text" name="q" class="search-input" placeholder="Search..." tabindex="-1" aria-label="Search" disabled="">
+            <input type="submit" class="submit-button" name="search" value="Submit">
+          </form>
+        </div>
+      </div>
+
+    </div>
+
+
+  </div>
+
+
+</nav>
+        </div>
+    </div>
+
+    
+  </div>
+
+    
+        
+</header>
+
+    <main id="main" class="l-content-wrapper" role="main">
+
+      
+                
+	      
+      <div class="l-full">
+
+        <div class="l-content ">
+
+          
+                                
+          <article class="post-type-page" id="article">
+            
+          <div class="intro-text">
+
+                      <h1 class="_title post-title">LCC Virtual Community</h1>
+              
+            
+              
+    
+        
+  </div>
+        <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="our-virtual-community" class="__title invisible">Our Virtual Community</h2>
+                    </div>
+
+    <figure class="_image captioned-image image-full">
+  <img src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/03/StoriesCovid_Bannerv5-1090x218.jpg" alt="LCC's heart mural in an orange duotone">
+  </figure>
+  
+  <h3></h3>
+
+
+
+  
+</div>
+
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="community-in-solidarity-check-ins" class="__title invisible">Community in Solidarity Check-ins</h2>
+                    </div>
+
+  
+  <h3>Storming COVID-19 with Moments of Joy &amp; Reflection</h3>
+<p>As we cope, let&#8217;s take a moment to reflect and share some joy in the midst of the COVID-19 storm.</p>
+<ul>
+<li><strong><a href="https://www.instagram.com/uiclcc/" target="_blank" rel="noopener">Check out our Moments @UICLCC</a></strong></li>
+<li><strong>To share your Moment</strong> go to the submission panel below</li>
+</ul>
+<h3>Information and Resources</h3>
+<ul>
+<li><a href="https://docs.google.com/document/d/1Lz3Lyjh5IlR-m4itZxPjqBWg06DG6Bd7g2voFxu47Ys/edit?usp=sharing" target="_blank" rel="noopener">Click HERE for more!</a></li>
+</ul>
+<li><a href="https://diversity.uic.edu/wp-content/uploads/sites/98/2020/05/UICLatinxTownhall_Resource_DRAFTv9.pdf" target="_blank" rel="noopener">Latinx Students COVID-19 Resource Package</a></li>
+</ul>
+
+
+
+  
+</div>
+
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+  
+  
+<div class="slideshow-container">
+
+  <h2 class="invisible">Moments</h2>
+
+<article class="slideshow">
+    <div class="slideshow__navigation">
+        <div class="slideshow-navigation">
+    <ul class="slideshow-navigation__slides">
+                    <li class="slideshow-navigation__slide slideshow-navigation__slide--active" data-slide-index="1">
+                <a href="#slide-1"><span>Go to slide 1</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="2">
+                <a href="#slide-2"><span>Go to slide 2</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="3">
+                <a href="#slide-3"><span>Go to slide 3</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="4">
+                <a href="#slide-4"><span>Go to slide 4</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="5">
+                <a href="#slide-5"><span>Go to slide 5</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="6">
+                <a href="#slide-6"><span>Go to slide 6</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="7">
+                <a href="#slide-7"><span>Go to slide 7</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="8">
+                <a href="#slide-8"><span>Go to slide 8</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="9">
+                <a href="#slide-9"><span>Go to slide 9</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="10">
+                <a href="#slide-10"><span>Go to slide 10</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="11">
+                <a href="#slide-11"><span>Go to slide 11</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="12">
+                <a href="#slide-12"><span>Go to slide 12</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="13">
+                <a href="#slide-13"><span>Go to slide 13</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="14">
+                <a href="#slide-14"><span>Go to slide 14</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="15">
+                <a href="#slide-15"><span>Go to slide 15</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="16">
+                <a href="#slide-16"><span>Go to slide 16</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="17">
+                <a href="#slide-17"><span>Go to slide 17</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="18">
+                <a href="#slide-18"><span>Go to slide 18</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="19">
+                <a href="#slide-19"><span>Go to slide 19</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="20">
+                <a href="#slide-20"><span>Go to slide 20</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="21">
+                <a href="#slide-21"><span>Go to slide 21</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="22">
+                <a href="#slide-22"><span>Go to slide 22</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="23">
+                <a href="#slide-23"><span>Go to slide 23</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="24">
+                <a href="#slide-24"><span>Go to slide 24</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="25">
+                <a href="#slide-25"><span>Go to slide 25</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="26">
+                <a href="#slide-26"><span>Go to slide 26</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="27">
+                <a href="#slide-27"><span>Go to slide 27</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="28">
+                <a href="#slide-28"><span>Go to slide 28</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="29">
+                <a href="#slide-29"><span>Go to slide 29</span></a>
+            </li>
+                    <li class="slideshow-navigation__slide " data-slide-index="30">
+                <a href="#slide-30"><span>Go to slide 30</span></a>
+            </li>
+            </ul>
+</div>
+    </div>
+    <ol class="slideshow__slides">
+                    <li id="slide-1" class="slideshow__slide slideshow__slide--active" data-slide-index="1">
+                
+<article class="slideshow-slide" id="444972281-1">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/05/LCC_SocialMedia_slideshow_30-1090x541.jpg" alt="Moment by Mario: “I received an email from Radical Women in celebration of May Day honoring women on the frontlines of the COVID-19 crisis. This reminded me of my mother who is an essential worker packing gourmet salads. My mother is a resilient warrior, and thinking of her brought me so much joy! Yet, it breaks my heart knowing she's at high risk of contagion.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="444972281-1-next" data-slide-index="2">
+                    <a href="#slide-2"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="444972281-1-prev" data-slide-index="30">
+                    <a href="#slide-30"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“I received an email from Radical Women in celebration of May Day honoring women on the frontlines of the COVID-19 crisis. This reminded me of my mother who is an essential worker packing gourmet salads. My mother is a resilient warrior, and thinking of her brought me so much joy! Yet, it breaks my heart knowing she's at high risk of contagion.” - Mario Alberto Lucero Ruiz | May 1, 2020</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-2" class="slideshow__slide " data-slide-index="2">
+                
+<article class="slideshow-slide" id="1738967011-2">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/05/LCC_SocialMedia_slideshow_29-1090x541.jpg" alt="Moment by Cynthia: “I've been struggling to get started on the literature review for my dissertation. I reached out for help and many of my academic friends offered helpful advice and guidance. I finally found a process that works, and I am happy to say that I started and it feels so good.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="1738967011-2-next" data-slide-index="3">
+                    <a href="#slide-3"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1738967011-2-prev" data-slide-index="1">
+                    <a href="#slide-1"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“I've been struggling to get started on the literature review for my dissertation. I reached out for help and many of my academic friends offered helpful advice and guidance. I finally found a process that works, and I am happy to say that I started and it feels so good.” - Cynthia Brito | April 30, 2020</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-3" class="slideshow__slide " data-slide-index="3">
+                
+<article class="slideshow-slide" id="1171134008-3">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/05/LCC_SocialMedia_slideshow_28-1090x541.jpg" alt="Moment by Bianca: “A moment of joy was when I helped my dad cook dinner for our family. Blasting música regional mexicana, the smell of sizzling chiles in the air, and the clanging of many pots and pans were all necessary elements for our feast of agua fresca, grilled chicken, mole, rice, and salsas (verdes Y rojas). I was like the Linguini to his Remy.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="1171134008-3-next" data-slide-index="4">
+                    <a href="#slide-4"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1171134008-3-prev" data-slide-index="2">
+                    <a href="#slide-2"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“A moment of joy was when I helped my dad cook dinner for our family. Blasting música regional mexicana, the smell of sizzling chiles in the air, and the clanging of many pots and pans were all necessary elements for our feast of agua fresca, grilled chicken, mole, rice, and salsas (verdes Y rojas). I was like the Linguini to his Remy.” - Bianca Rosa Perez | April 28, 2020</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-4" class="slideshow__slide " data-slide-index="4">
+                
+<article class="slideshow-slide" id="406488004-4">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_27-1090x541.jpg" alt="Moment by Zuleyma: “My moment of joy was learning about homemade remedies. It was interesting to hear everyone's method of using natural remedies to treat a cold and for hair treatments. The most joyous moment was sharing my experience–using onion for hair growth–which was similar to someone else sharing in the LCC Virtual Community.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="406488004-4-next" data-slide-index="5">
+                    <a href="#slide-5"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="406488004-4-prev" data-slide-index="3">
+                    <a href="#slide-3"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“My moment of joy was learning about homemade remedies. It was interesting to hear everyone's method of using natural remedies to treat a cold and for hair treatments. The most joyous moment was sharing my experience–using onion for hair growth–which was similar to someone else sharing in the LCC Virtual Community.”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-5" class="slideshow__slide " data-slide-index="5">
+                
+<article class="slideshow-slide" id="447571732-5">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_26-1090x541.jpg" alt="Moment by Luis: “Some of the native flowering plants and seedlings in my garden have begun to sprout. All throughout the winter I would burn firewood and dump the hot coals in my garden and spread them to help return nutrients to the soil. I am really excited to see how my garden grows this summer!”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="447571732-5-next" data-slide-index="6">
+                    <a href="#slide-6"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="447571732-5-prev" data-slide-index="4">
+                    <a href="#slide-4"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“Some of the native flowering plants and seedlings in my garden have begun to sprout. All throughout the winter I would burn firewood and dump the hot coals in my garden and spread them to help return nutrients to the soil. I am really excited to see how my garden grows this summer!”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-6" class="slideshow__slide " data-slide-index="6">
+                
+<article class="slideshow-slide" id="289378167-6">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_25-1090x541.jpg" alt="Moment by Valerie: “During this time I've been able to take advantage of the nature trails near my house. Nature really works wonders. Whenever I go for walks I am taken away by the birds' songs and the ducks' playful swim. Interacting with the natural environment has allowed me to manage my stress and has given me a space to foster clarity of mind.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="289378167-6-next" data-slide-index="7">
+                    <a href="#slide-7"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="289378167-6-prev" data-slide-index="5">
+                    <a href="#slide-5"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“During this time I've been able to take advantage of the nature trails near my house. Nature really works wonders. Whenever I go for walks I am taken away by the birds' songs and the ducks' playful swim. Interacting with the natural environment has allowed me to manage my stress and has given me a space to foster clarity of mind.”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-7" class="slideshow__slide " data-slide-index="7">
+                
+<article class="slideshow-slide" id="505321242-7">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_24-1090x541.jpg" alt="Moment by Sarai: “You can now call me Chef Sarai! While I love eating, I have never been a fan of cooking. These past few weeks, my mom has been teaching me how to cook a variety of Ecuadorian &amp; Bolivian dishes, which I looooove! The extra time in the kitchen with my mom has also brought us closer–I've learned more about her life before she had me, and I'm now more convinced that she's my hero.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="505321242-7-next" data-slide-index="8">
+                    <a href="#slide-8"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="505321242-7-prev" data-slide-index="6">
+                    <a href="#slide-6"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“You can now call me Chef Sarai! While I love eating, I have never been a fan of cooking. These past few weeks, my mom has been teaching me how to cook a variety of Ecuadorian &amp; Bolivian dishes, which I looooove! The extra time in the kitchen with my mom has also brought us closer–I've learned more about her life before she had me, and I'm now more convinced that she's my hero.”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-8" class="slideshow__slide " data-slide-index="8">
+                
+<article class="slideshow-slide" id="644015291-8">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_23-1090x541.jpg" alt="Moment by Lauren: “One of the things I love most about the LCC is our office plants! I rarely have any real plants at home because I worry about how long I can keep them alive. The other day, I remembered that a few months ago I brought one of the LCC's office plants home. It is thriving and brightening up the room! I'm so happy to have a piece of the LCC at home with me.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="644015291-8-next" data-slide-index="9">
+                    <a href="#slide-9"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="644015291-8-prev" data-slide-index="7">
+                    <a href="#slide-7"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“One of the things I love most about the LCC is our office plants! I rarely have any real plants at home because I worry about how long I can keep them alive. The other day, I remembered that a few months ago I brought one of the LCC's office plants home. It is thriving and brightening up the room! I'm so happy to have a piece of the LCC at home with me.”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-9" class="slideshow__slide " data-slide-index="9">
+                
+<article class="slideshow-slide" id="9619521-9">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_22-1090x541.jpg" alt="Moment by Andrea: “During my time home, I've been cooking and baking–a lot. Occasionally, I make extra portions so I can share and exchange food with friends and family. Taking those drives out, seeing them (from afar), seeing their reactions, and feeling supported are moments of joy for me.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="9619521-9-next" data-slide-index="10">
+                    <a href="#slide-10"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="9619521-9-prev" data-slide-index="8">
+                    <a href="#slide-8"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“During my time home, I've been cooking and baking–a lot. Occasionally, I make extra portions so I can share and exchange food with friends and family. Taking those drives out, seeing them (from afar), seeing their reactions, and feeling supported are moments of joy for me.”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-10" class="slideshow__slide " data-slide-index="10">
+                
+<article class="slideshow-slide" id="1812689249-10">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_21-1090x541.jpg" alt="Moment by Alonzo: “As I am writing this, I have a 30 min. left on my timer, indicating that my frijoles are ready to be enjoyed! During my time at home, I've put an extra effort into learning how to cook different foods, use different tools like a precision cooker, and experiment with different recipes. I hope to use this time to get into a rhythm with cooking and rely less on outside foods.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="1812689249-10-next" data-slide-index="11">
+                    <a href="#slide-11"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1812689249-10-prev" data-slide-index="9">
+                    <a href="#slide-9"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“As I am writing this, I have a 30 min. left on my timer, indicating that my frijoles are ready to be enjoyed! During my time at home, I've put an extra effort into learning how to cook different foods, use different tools like a precision cooker, and experiment with different recipes. I hope to use this time to get into a rhythm with cooking and rely less on outside foods.”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-11" class="slideshow__slide " data-slide-index="11">
+                
+<article class="slideshow-slide" id="1543361115-11">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_20-1090x541.jpg" alt="Moment by Rosa: “Early this morning I heard a loud and strange noise outside my bedroom window and to my surprise and joy two large geese were on my 7th floor balcony! They had found a place to rest for a bit among some tall dry grasses or perhaps there was some nesting activities going on. If they are nesting, I will have some time to do some outdoor community science and lighten my indoor physical distance!”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="1543361115-11-next" data-slide-index="12">
+                    <a href="#slide-12"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1543361115-11-prev" data-slide-index="10">
+                    <a href="#slide-10"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“Early this morning I heard a loud and strange noise outside my bedroom window and to my surprise and joy two large geese were on my 7th floor balcony! They had found a place to rest for a bit among some tall dry grasses or perhaps there was some nesting activities going on. If they are nesting, I will have some time to do some outdoor community science and lighten my indoor physical distance!”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-12" class="slideshow__slide " data-slide-index="12">
+                
+<article class="slideshow-slide" id="1156953251-12">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_19-1090x541.jpg" alt="Moment by Yazmin: “Me and my siblings don't have enough time to talk because we have such different schedules. Now we have all been watching all of the old cartoons and movies that we haven't watched since we were kids, and even new shows too! My parents and I eat fruit together in the afternoons. My sister and I have been listening and sharing new music. All of us are sleeping a lot more and staying home.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="1156953251-12-next" data-slide-index="13">
+                    <a href="#slide-13"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1156953251-12-prev" data-slide-index="11">
+                    <a href="#slide-11"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“Me and my siblings don't have enough time to talk because we have such different schedules. Now we have all been watching all of the old cartoons and movies that we haven't watched since we were kids, and even new shows too! My parents and I eat fruit together in the afternoons. My sister and I have been listening and sharing new music. All of us are sleeping a lot more and staying home.”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-13" class="slideshow__slide " data-slide-index="13">
+                
+<article class="slideshow-slide" id="1314524292-13">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_18-1090x541.jpg" alt="Moment by Zuleyma: “My moment of joy was to have people support me when I was in doubt. I learned that my health needs are important and it's essential to express this to professors and colleagues. This LCC session [Community in Solidarity Check-in] was fun since we got to see someone play a tune from La La Land.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="1314524292-13-next" data-slide-index="14">
+                    <a href="#slide-14"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1314524292-13-prev" data-slide-index="12">
+                    <a href="#slide-12"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“My moment of joy was to have people support me when I was in doubt. I learned that my health needs are important and it's essential to express this to professors and colleagues. This LCC session [Community in Solidarity Check-in] was fun since we got to see someone play a tune from La La Land.”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-14" class="slideshow__slide " data-slide-index="14">
+                
+<article class="slideshow-slide" id="1827806624-14">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_17-1090x541.jpg" alt="Moment by Mario: “Today, my almost 2-year-old toddler learned how to ride a tricycle. It was a joyous moment and especially when they fell asleep with the helmet on after an ultimate cute tantrum!  Working from home with a toddler means that all boundaries are blurred, and although it's challenging, I am grateful and lucky to have a job that brings comfort to students, faculty and staff during these stressful times.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="1827806624-14-next" data-slide-index="15">
+                    <a href="#slide-15"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1827806624-14-prev" data-slide-index="13">
+                    <a href="#slide-13"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“Today, my almost 2-year-old toddler learned how to ride a tricycle. It was a joyous moment and especially when they fell asleep with the helmet on after an ultimate cute tantrum!  Working from home with a toddler means that all boundaries are blurred, and although it's challenging, I am grateful and lucky to have a job that brings comfort to students, faculty and staff during these stressful times.”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-15" class="slideshow__slide " data-slide-index="15">
+                
+<article class="slideshow-slide" id="1016397868-15">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_16-1090x541.jpg" alt="Moment by Zeina: “Spending time with my kids (5 and 2) brings me sheer Joy of being together, doing art projects, finding worms in our backyard, and dancing. It also pushes me to find hope as we talk about how the whole world is working together to fight this virus, help each other, and heal our planet; as we practice social distancing to protect others in our community and give healthcare workers a fighting chance.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="1016397868-15-next" data-slide-index="16">
+                    <a href="#slide-16"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1016397868-15-prev" data-slide-index="14">
+                    <a href="#slide-14"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“Spending time with my kids (5 and 2) brings me sheer Joy of being together, doing art projects, finding worms in our backyard, and dancing. It also pushes me to find hope as we talk about how the whole world is working together to fight this virus, help each other, and heal our planet; as we practice social distancing to protect others in our community and give healthcare workers a fighting chance.”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-16" class="slideshow__slide " data-slide-index="16">
+                
+<article class="slideshow-slide" id="1922203058-16">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_15-1090x541.jpg" alt="Moment by Zitlali: “I have been doing so much cooking lately, which normally I don't have time to do. My favorite recipes are those which have been passed down from mi mamá, like pozole verde, picadillo, tostadas de tinga, and enmoladas. But I also have a few favorite recipes from friendsand other family, including Mexican lasagna (made with tortillas, frijoles, and salsa!) I love that food connects me to familia.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="1922203058-16-next" data-slide-index="17">
+                    <a href="#slide-17"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1922203058-16-prev" data-slide-index="15">
+                    <a href="#slide-15"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“I have been doing so much cooking lately, which normally I don't have time to do. My favorite recipes are those which have been passed down from mi mamá, like pozole verde, picadillo, tostadas de tinga, and enmoladas. But I also have a few favorite recipes from friendsand other family, including Mexican lasagna (made with tortillas, frijoles, and salsa!) I love that food connects me to familia.”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-17" class="slideshow__slide " data-slide-index="17">
+                
+<article class="slideshow-slide" id="260264561-17">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_14-1090x541.jpg" alt="Moment by Alejandro: “My moment of joy was being able to communicate with my family that don't live with me. I am able to see how big my nephew gets and I know a lot of families don't get the opportunity to communicate with their families, so I am grateful that I have the resources necessary to do that.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="260264561-17-next" data-slide-index="18">
+                    <a href="#slide-18"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="260264561-17-prev" data-slide-index="16">
+                    <a href="#slide-16"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“My moment of joy was being able to communicate with my family that don't live with me. I am able to see how big my nephew gets and I know a lot of families don't get the opportunity to communicate with their families, so I am grateful that I have the resources necessary to do that.”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-18" class="slideshow__slide " data-slide-index="18">
+                
+<article class="slideshow-slide" id="543294357-18">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_13-1090x541.jpg" alt="Moment by Danay: “I recently brought all of my plants from my mom's house into my new apartment. My roommates and I spent the day repotting and figuring out where the plants would go. It has helped this place feel more like a home.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="543294357-18-next" data-slide-index="19">
+                    <a href="#slide-19"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="543294357-18-prev" data-slide-index="17">
+                    <a href="#slide-17"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“I recently brought all of my plants from my mom's house into my new apartment. My roommates and I spent the day repotting and figuring out where the plants would go. It has helped this place feel more like a home.”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-19" class="slideshow__slide " data-slide-index="19">
+                
+<article class="slideshow-slide" id="1458846629-19">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_12-1090x541.jpg" alt="Moment by Mechiya: “I've been able to dive inward like never before. I've been able to breath into new places and rediscover parts of myself that blurred into the background. By going deeper inward, I am able to project outward and help those around me during these trying times. Inner peace = inner empowerment. Inner empowerment = ability to empower others.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="1458846629-19-next" data-slide-index="20">
+                    <a href="#slide-20"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1458846629-19-prev" data-slide-index="18">
+                    <a href="#slide-18"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“I've been able to dive inward like never before. I've been able to breath into new places and rediscover parts of myself that blurred into the background. By going deeper inward, I am able to project outward and help those around me during these trying times. Inner peace = inner empowerment. Inner empowerment = ability to empower others.”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-20" class="slideshow__slide " data-slide-index="20">
+                
+<article class="slideshow-slide" id="2132424251-20">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_11-1090x541.jpg" alt="Moment by Cynthia: “My 87 year old father who is living with dementia became isolated in his senior living facility once they closed the dining room and stopped allowing visitors. So he is staying with my husband and I for now, as we work from home. It has relieved a lot of stress and shown me that it’s not so hard to have him here. We get to reminisce through reading a memory book my daughter made with him, looking at his family tree, and watching a lifetime (mine) of slides he took on our many camping trips to national parks and on his world travels. My parents instilled a love of nature in my sister and through those trips and many hikes. I will always treasure this time with him, especially knowing how precious life is.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="2132424251-20-next" data-slide-index="21">
+                    <a href="#slide-21"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="2132424251-20-prev" data-slide-index="19">
+                    <a href="#slide-19"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“My 87 year old father who is living with dementia became isolated in his senior living facility once they closed the dining room and stopped allowing visitors. So he is staying with my husband and I for now, as we work from home. It has relieved a lot of stress and shown me that it’s not so hard to have him here. We get to reminisce through reading a memory book my daughter made with him, looking at his family tree, and watching a lifetime (mine) of slides he took on our many camping trips to national parks and on his world travels. My parents instilled a love of nature in my sister and through those trips and many hikes. I will always treasure this time with him, especially knowing how precious life is.”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-21" class="slideshow__slide " data-slide-index="21">
+                
+<article class="slideshow-slide" id="1604095311-21">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/04/LCC_SocialMedia_slideshow_10-1090x541.jpg" alt="Moment by Nancy: “I love being involved with my music community but lately we haven't been together and this has been very hard on me. I miss seeing my friends &amp; family but all this is going to be okay and I am optimistic that we will all heal from this. This moment has allowed me to start regularly practicing the violin and be closer to my loved ones at home. I am happy and healthy and I hope everyone is as well!”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="1604095311-21-next" data-slide-index="22">
+                    <a href="#slide-22"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1604095311-21-prev" data-slide-index="20">
+                    <a href="#slide-20"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“I love being involved with my music community but lately we haven't been together and this has been very hard on me. I miss seeing my friends &amp; family but all this is going to be okay and I am optimistic that we will all heal from this. This moment has allowed me to start regularly practicing the violin and be closer to my loved ones at home. I am happy and healthy and I hope everyone is as well!”</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-22" class="slideshow__slide " data-slide-index="22">
+                
+<article class="slideshow-slide" id="955943393-22">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/03/LCC_SocialMedia_slideshow_09-1090x541.jpg" alt="Moment by Tanya: “While navigating online workload and PreK-7th grade academics has been heavy during this time, I am so thankful for the silly moments I am sharing with these four young souls in quarantine. The competitive Taboo games and cuddles on the couch are priceless. We don't get these moments back and I am so thankful to spend this  quality time with them.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="955943393-22-next" data-slide-index="23">
+                    <a href="#slide-23"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="955943393-22-prev" data-slide-index="21">
+                    <a href="#slide-21"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“While navigating online workload and PreK-7th grade academics has been heavy during this time, I am so thankful for the silly moments I am sharing with these four young souls in quarantine. The competitive Taboo games and cuddles on the couch are priceless. We don't get these moments back and I am so thankful to spend this  quality time with them.” - Tanya Cabrera</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-23" class="slideshow__slide " data-slide-index="23">
+                
+<article class="slideshow-slide" id="833893552-23">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/03/LCC_SocialMedia_slideshow_08-1090x541.jpg" alt="Moment by Lorena: “I've been going on outdoor walks to get fresh air and sunlight (while practicing physical distance from others) and  I'm really appreciating seeing the blossoming of  flowers and budding trees.   It gives me hope and it helps ground me right now. And it reminds me that spring is here and with it, a sense of renewal.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="833893552-23-next" data-slide-index="24">
+                    <a href="#slide-24"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="833893552-23-prev" data-slide-index="22">
+                    <a href="#slide-22"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“I've been going on outdoor walks to get fresh air and sunlight (while practicing physical distance from others) and  I'm really appreciating seeing the blossoming of  flowers and budding trees.   It gives me hope and it helps ground me right now. And it reminds me that spring is here and with it, a sense of renewal.” - Lorena Garcia</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-24" class="slideshow__slide " data-slide-index="24">
+                
+<article class="slideshow-slide" id="1680926327-24">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/03/LCC_SocialMedia_slideshow_07-1090x541.png" alt="Moment by Ana: “My moment of Joy was finding out that DACA recipients can apply for unemployment! (If their work permit hasn't expired)”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="1680926327-24-next" data-slide-index="25">
+                    <a href="#slide-25"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1680926327-24-prev" data-slide-index="23">
+                    <a href="#slide-23"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“My moment of Joy was finding out that DACA recipients can apply for unemployment! (If their work permit hasn't expired)” - Ana Karen</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-25" class="slideshow__slide " data-slide-index="25">
+                
+<article class="slideshow-slide" id="187599788-25">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/03/LCC_SocialMedia_slideshow_06-1090x541.jpg" alt="Moment by Carolina: “This pandemic is shifting people's mentality of taking care of not only ourselves but also each other. I've noticed people are becoming more aware of how interconnected we are. Where structures and government responses lack, community responses are rapidly growing for the wellbeing of our collective society and of those at the frontlines.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="187599788-25-next" data-slide-index="26">
+                    <a href="#slide-26"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="187599788-25-prev" data-slide-index="24">
+                    <a href="#slide-24"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“This pandemic is shifting people's mentality of taking care of not only ourselves but also each other. I've noticed people are becoming more aware of how interconnected we are. Where structures and government responses lack, community responses are rapidly growing for the wellbeing of our collective society and of those at the frontlines.” - Carolina Macias</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-26" class="slideshow__slide " data-slide-index="26">
+                
+<article class="slideshow-slide" id="87641361-26">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/03/LCC_SocialMedia_slideshow_05-1090x541.png" alt="Moment by Edith: “I always had the excuse of not having enough time to cook.  My cooking skills have improved these last few days. Turns out I actually enjoy it and it's definitely keeping me calm!”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="87641361-26-next" data-slide-index="27">
+                    <a href="#slide-27"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="87641361-26-prev" data-slide-index="25">
+                    <a href="#slide-25"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“I always had the excuse of not having enough time to cook.  My cooking skills have improved these last few days. Turns out I actually enjoy it and it's definitely keeping me calm!” - Edith Tovar</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-27" class="slideshow__slide " data-slide-index="27">
+                
+<article class="slideshow-slide" id="876874031-27">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/03/LCC_SocialMedia_Laurenslideshow-1090x541.jpg" alt="“In an effort to prevent restlessness, my father and I recently took a walk around our neighborhood. I noticed this was our first walk together and also how much my neighborhood has changed. We can become so consumed in our everyday routines that we forget to self-reflect. This moment has allowed me to reconsider my interactions with loved ones and with the environment around me.” - Lauren De Jesus" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="876874031-27-next" data-slide-index="28">
+                    <a href="#slide-28"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="876874031-27-prev" data-slide-index="26">
+                    <a href="#slide-26"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“In an effort to prevent restlessness, my father and I recently took a walk around our neighborhood. I noticed this was our first walk together and also how much my neighborhood has changed. We can become so consumed in our everyday routines that we forget to self-reflect. This moment has allowed me to reconsider my interactions with loved ones and with the environment around me.” - Lauren De Jesus</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-28" class="slideshow__slide " data-slide-index="28">
+                
+<article class="slideshow-slide" id="43876145-28">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/03/LCC_SocialMedia_Irerislideshow-1090x541.jpg" alt="Moment by Ireri Sol Ireri Unzueta Carrasco: "Two of my family members moved to a different city a while back, and one of them gave me a small trampoline they were not taking with them. I am fortunate to work from home in these times, and in between checking in on my loved ones to see how I can support and doing my work, and I’ve been doing some solid jumping in my living room to Ska music in Spanish. From my jumping perspective I get a view of the trees outside, the seedlings I am caring for indoors, and a small shelf where I keep the tiny things people I love have gifted me. My community is on my mind. ”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="43876145-28-next" data-slide-index="29">
+                    <a href="#slide-29"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="43876145-28-prev" data-slide-index="27">
+                    <a href="#slide-27"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">"Two of my family members moved to a different city a while back, and one of them gave me a small trampoline they were not taking with them. I am fortunate to work from home in these times, and in between checking in on my loved ones to see how I can support and doing my work, and I’ve been doing some solid jumping in my living room to Ska music in Spanish. From my jumping perspective I get a view of the trees outside, the seedlings I am caring for indoors, and a small shelf where I keep the tiny things people I love have gifted me. My community is on my mind. ” - Ireri Sol Ireri Unzueta Carrasco</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-29" class="slideshow__slide " data-slide-index="29">
+                
+<article class="slideshow-slide" id="1727655262-29">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/03/LCC_SocialMedia_slideshow_02-1090x541.jpg" alt="Moment by Jocelyn: “I have been trying to declutter and get rid of material things I no longer need. I am thankful for the abundance in my life and know how privileged I am to be able to acquire things amidst this public health crisis. My moment of joy was finding old pictures which brought so many cheerful memories! Here’s to cherishing moments and the ones we love. ”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="1727655262-29-next" data-slide-index="30">
+                    <a href="#slide-30"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1727655262-29-prev" data-slide-index="28">
+                    <a href="#slide-28"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“I have been trying to declutter and get rid of material things I no longer need. I am thankful for the abundance in my life and know how privileged I am to be able to acquire things amidst this public health crisis. My moment of joy was finding old pictures which brought so many cheerful memories! Here’s to cherishing moments and the ones we love. ” - Jocelyn Munguia Chavez</div>
+                        </div>
+    
+</article>
+            </li>
+                    <li id="slide-30" class="slideshow__slide " data-slide-index="30">
+                
+<article class="slideshow-slide" id="1505654520-30">
+
+    <div class="slideshow-slide__image-and-buttons">
+        <div class="slideshow-slide__image">
+            <img class="image-pane" src="https://latinocultural.uic.edu/wp-content/uploads/sites/231/2020/03/LCC_SocialMedia_slideshow_01-1090x541.jpg" alt="Moment by Rosa: “I have been trying to grow an avocado tree from multiple pits for months with no success, but this morning my blissful moment came as I noticed a tiny stem sprouting and bending for the light. This made my day and I am thankful for being able to put avocados on my table everyday–many people aren’t this fortunate.  Is this moment changing us towards deeper collectivity and empathy? I certainly hope so.”" data-image-width="800" data-image-height="400" role="presentation">
+        </div>
+        <div class="slideshow-slide__buttons">
+            <ul>
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="1505654520-30-next" data-slide-index="1">
+                    <a href="#slide-1"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
+                </li>
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1505654520-30-prev" data-slide-index="29">
+                    <a href="#slide-29"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="slideshow-slide__credit-and-caption">
+        
+                                    <div class="slideshow-slide__caption">“I have been trying to grow an avocado tree from multiple pits for months with no success, but this morning my blissful moment came as I noticed a tiny stem sprouting and bending for the light. This made my day and I am thankful for being able to put avocados on my table everyday–many people aren’t this fortunate.  Is this moment changing us towards deeper collectivity and empathy? I certainly hope so.” - Rosa Cabrera</div>
+                        </div>
+    
+</article>
+            </li>
+            </ol>
+</article>
+
+</div>
+
+
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="what-is-your-moment-of-joy-reflection" class="__title invisible">What is your moment of joy &amp; reflection?</h2>
+                    </div>
+
+  
+  <h3>What is your moment of joy &amp; reflection?</h3>
+<p>Share it with us via email lcc@uic.edu or <strong>comment below</strong> (400 Characters Max.).</p>
+<h3></h3>
+
+
+
+  
+</div>
+
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+  
+  
+    <div class="component-description">
+                    <h2 id="moments-of-joy" class="__title invisible">Moments of Joy</h2>
+                    </div>
+
+                <div class='gf_browser_unknown gform_wrapper' id='gform_wrapper_10' ><div id='gf_10' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_10' id='gform_10'  action='/virtual-community/#gf_10'>
+                        <div class='gform_body'><ul id='gform_fields_10' class='gform_fields top_label form_sublabel_below description_below'><li id='field_10_2'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_10_2' >Full Name<span class='gfield_required'> * <span class='sr-only'> Required</span></span></label><div class='ginput_container ginput_container_text'><input name='input_2' id='input_10_2' type='text' value='' class='medium' maxlength='25'    aria-required="true" aria-invalid="false" /></div></li><li id='field_10_3'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_10_3' >Email<span class='gfield_required'> * <span class='sr-only'> Required</span></span></label><div class='ginput_container ginput_container_text'><input name='input_3' id='input_10_3' type='text' value='' class='medium' maxlength='25'    aria-required="true" aria-invalid="false" /></div></li><li id='field_10_1'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_10_1' >Share Your Moment of Joy &amp; Reflection<span class='gfield_required'> * <span class='sr-only'> Required</span></span></label><div class='ginput_container ginput_container_textarea'><textarea name='input_1' id='input_10_1' class='textarea medium'  aria-describedby="gfield_description_10_1" maxlength='400'  aria-required="true" aria-invalid="false"   rows='10' cols='50'></textarea></div><div class='gfield_description' id='gfield_description_10_1'>Story will not submit if 400 character limit is exceeded.</div></li><li id='field_10_4'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><fieldset aria-required='true' class='gfieldset'><legend class='gfield_label'>I agree to share my story on the LCC website and social media.<span class='gfield_required'> * <span class='sr-only'> Required</span></span></legend><div class='ginput_container ginput_container_checkbox'><ul class='gfield_checkbox' id='input_10_4'><li class='gchoice_10_4_1'>
+								<input name='input_4.1' type='checkbox'  value='Yes'  id='choice_10_4_1'   />
+								<label for='choice_10_4_1' id='label_10_4_1'>Yes</label>
+							</li></ul></div></fieldset></li>
+                            </ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_10' class='gform_button button' value='Submit'  onclick='if(window["gf_submitting_10"]){return false;}  window["gf_submitting_10"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_10"]){return false;} window["gf_submitting_10"]=true;  jQuery("#gform_10").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=10&amp;title=&amp;description=&amp;tabindex=0' />
+            <input type='hidden' class='gform_hidden' name='is_submit_10' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='10' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_10' value='WyJbXSIsIjg5YzllNmJkOWU3Y2NjNWZlODFjYjc5MGI3YzkxMjQyIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_10' id='gform_target_page_number_10' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_10' id='gform_source_page_number_10' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_10' id='gform_ajax_frame_10'>This iframe contains the logic required to handle Ajax powered Gravity Forms.</iframe>
+                <script type='text/javascript'>jQuery(document).ready(function($){gformInitSpinner( 10, 'https://latinocultural.uic.edu/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery('#gform_ajax_frame_10').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_10');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_10').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_10').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_10').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_10').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(2); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_10').val();gformInitSpinner( 10, 'https://latinocultural.uic.edu/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [10, current_page]);window['gf_submitting_10'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_10').replaceWith(confirmation_content);jQuery(document).scrollTop(2);jQuery(document).trigger('gform_confirmation_loaded', [10]);window['gf_submitting_10'] = false;}, 50);}else{jQuery('#gform_10').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [10, current_page]);} );} );</script><script type='text/javascript'> jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 10) {if(!jQuery('#input_10_2+.ginput_counter').length){jQuery('#input_10_2').textareaCount(    {'maxCharacterSize': 25,    'originalStyle': 'ginput_counter',	 'truncate': true,	 'errorStyle' : '',    'displayFormat' : '#input of #max max characters'    });jQuery('input_10_2').next('.ginput_counter').attr('aria-live','polite');}if(!jQuery('#input_10_3+.ginput_counter').length){jQuery('#input_10_3').textareaCount(    {'maxCharacterSize': 25,    'originalStyle': 'ginput_counter',	 'truncate': true,	 'errorStyle' : '',    'displayFormat' : '#input of #max max characters'    });jQuery('input_10_3').next('.ginput_counter').attr('aria-live','polite');}if(!jQuery('#input_10_1+.ginput_counter').length){jQuery('#input_10_1').textareaCount(    {'maxCharacterSize': 400,    'originalStyle': 'ginput_counter',	 'truncate': true,	 'errorStyle' : '',    'displayFormat' : '#input of #max max characters'    });jQuery('input_10_1').next('.ginput_counter').attr('aria-live','polite');}} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [10, 1]) } ); </script>
+
+  
+</section>
+
+    
+
+</div>
+
+          </article>
+        </div>
+
+                                            
+                       
+              
+                            
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                       
+              
+                            
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+                       
+              
+                            
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                       
+              
+                            
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+                       
+              
+                            
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                       
+              
+                            
+                       
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                       
+              
+                            
+                       
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                       
+              
+                            
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                       
+              
+                            
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                       
+              
+                            
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+
+
+          
+                          </div>
+    </main>
+
+    
+        <footer id="footer" class="footer u-dark-region" role="contentinfo">
+
+  <div class="footer-contact">
+    <div class="l-full">
+
+          <div class="mega-footer-contact">
+
+    <div class="mega-footer-contact__brand mega-footer-contact__brand--type-treatment">
+        <div class="footer-logo">
+                        <div class="uic-type-treatment  uic-wordmark--footer">
+
+  <div class="_mark">
+    <a href="http://uic.edu" class="uic-logo-icon ">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+<path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF " fill-rule="evenodd"/>
+</svg>
+</a>
+  </div>
+
+  <div class="_text">
+    <a href="https://latinocultural.uic.edu">
+          Rafael Cintrón Ortiz Latino Cultural Center
+        </a>
+  </div>
+
+</div>
+            </div>
+    </div>
+
+  <div class="mega-footer-contact__menus">
+
+    
+        <div class="mega-footer-contact__button-menus">
+      <nav class="mega-footer-contact__button-menu" id="menu4" aria-label="footer-menu-4">
+        <h2 class="assistive-text">Donate</h2>
+
+        <ul id="button-menu" class="menu button-menu" aria-label="Donate">
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-409">
+      <a href="https://diversity.uic.edu/donate/" target="_blank">Donate</a>
+    </li>
+  </ul>
+
+      </nav>
+    </div>
+    
+  </div>
+
+  <div class="mega-footer-contact__contact">
+
+    <div class="_contact">
+      <h2>Contact</h2>
+      <div class="site-contact-container">    <div class="site-address">803 S. Morgan St., Lecture Center B2 (MC 218), Chicago, IL 60607</div>
+      <div class="site-phone">Phone: <a  href="tel:(312) 996-3095">(312) 996-3095</a></div>
+      <div class="site-fax">Fax: <a  href="tel:(312) 996-9092">(312) 996-9092</a></div>
+      <div class="site-email"><a  href="mailto:lcc@uic.edu">lcc@uic.edu</a></div>
+</div>
+      <div class="site-contact-container">        </div>
+    </div>
+
+    <div class="mega-footer-contact__site-social-links">
+       <div aria-label="Social Media Accounts" class="site-social-links">
+  <h2 class="site-social-links__header assistive-text">Social Media Accounts</h2>
+  <ul class="site-social-links__list">
+        <li class="site-social-links__list-item"><a  class="site-social-links__link facebook" href="https://www.facebook.com/uiclcc">
+      <svg class="site-social-links__link-icon " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Facebook"><title>Facebook</title><path d="M17 26.7V15h3.2s.3-2 .4-4H17V8.3s.5-.9 1-.9h2.5c0-.6.2-2.4.3-4h-3.7c-5 0-4.9 3.9-4.9 4.5v3.2h-3v4h3.1v11.7H17z"/></svg>
+    </a></li>
+                <li class="site-social-links__list-item"><a  class="site-social-links__link twitter" href="https://twitter.com/UICLCC">
+      <svg class="site-social-links__link-icon " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Twitter"><title>Twitter</title><path d="M25.4 9.4c-.7.3-1.5.6-2.4.7.9-.5 1.5-1.3 1.8-2.3-.8.5-1.7.8-2.6 1-.8-.8-1.8-1.3-3-1.3-2.3 0-4.1 1.9-4.1 4.1 0 .3 0 .6.1.9-3.4-.2-6.5-1.8-8.5-4.3-.4.6-.6 1.3-.6 2.1 0 1.4.7 2.7 1.8 3.4-.7 0-1.3-.2-1.9-.5v.1c0 2 1.4 3.7 3.3 4.1-.3.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.6 2.1 2.8 3.9 2.9-1.4 1.1-3.2 1.8-5.1 1.8-.3 0-.7 0-1-.1 1.8 1.2 4 1.9 6.3 1.9 7.6 0 11.8-6.3 11.8-11.8v-.5c.9-.6 1.6-1.3 2.1-2.2z"/></svg>
+    </a></li>
+            <li class="site-social-links__list-item"><a  class="site-social-links__link instagram" href="https://www.instagram.com/uiclcc/">
+      <svg class="site-social-links__link-icon " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Instagram"><title>Instagram</title><path fill="none" d="M15 18.8c2 0 3.6-1.6 3.6-3.6S17 11.5 15 11.5s-3.6 1.6-3.6 3.6 1.6 3.7 3.6 3.7z"/><path fill="none" d="M20 15.2c0 2.7-2.2 5-5 5s-5-2.2-5-5c0-.7.1-1.3.4-1.9H6.5V22c0 .9.7 1.6 1.6 1.6H22c.9 0 1.6-.7 1.6-1.6v-8.7h-3.9c.1.6.3 1.2.3 1.9z"/><path d="M21.9 5.1H11.5v5.8h-1.4V5.1H8.8v5.8H7.4V5.2c-1.3.2-2.3 1.4-2.3 2.9V22c0 1.6 1.3 3 3 3H22c1.6 0 3-1.3 3-3V8.1c-.1-1.7-1.4-3-3.1-3zm-2.6 3.4h2.4v2.4h-2.4V8.5zm-4.3 3c2 0 3.6 1.6 3.6 3.6S17 18.8 15 18.8s-3.6-1.6-3.6-3.6 1.6-3.7 3.6-3.7zm8.5 10.4c0 .9-.7 1.6-1.6 1.6H8.1c-.9 0-1.6-.7-1.6-1.6v-8.7h3.9c-.2.6-.4 1.2-.4 1.9 0 2.7 2.2 5 5 5s5-2.2 5-5c0-.7-.1-1.3-.4-1.9h3.9v8.7z"/></svg>
+    </a></li>
+            <li class="site-social-links__list-item"><a  class="site-social-links__link youtube" href="https://www.youtube.com/user/LatinoCulturalCenter">
+      <svg class="site-social-links__link-icon " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Youtube"><title>YouTube</title><path d="M9.5 11.8h1.4V8.3l1.6-4.8h-1.4l-.9 3.3-.9-3.3H7.9l1.6 5M14.4 11.9c.6 0 1-.1 1.3-.4.3-.3.5-.7.5-1.2V7.1c0-.5-.2-.8-.5-1.1-.3-.3-.7-.4-1.3-.4-.6 0-1 .1-1.3.4-.3.3-.5.7-.5 1.1v3.2c0 .5.2.9.5 1.2.3.3.7.4 1.3.4zM13.9 7c0-.1 0-.2.1-.3.1-.1.2-.1.4-.1s.3 0 .4.1c.1.1.2.2.2.3v3.3c0 .2 0 .3-.1.4-.1.1-.2.1-.4.1s-.3 0-.4-.1c-.1-.1-.1-.2-.1-.4V7zM18 11.8c.2 0 .5-.1.7-.2.2-.1.5-.3.7-.6v.7h1.2V5.6h-1.2v4.6c-.1.1-.2.2-.4.3-.1.1-.3.1-.3.1-.1 0-.2 0-.2-.1-.1-.1-.1-.2-.1-.3V5.6h-1.2v5.1c0 .4.1.6.2.8.1.3.3.3.6.3zM20.7 19.3c-.2 0-.3 0-.4.2-.1.1-.1.3-.1.5v.6h1V20c0-.2 0-.4-.1-.5-.1-.1-.2-.2-.4-.2zM17 19.3c-.4-.1-.6.2-.6.2V23s.3.4.7.2c0 0 .2-.1.2-.5v-2.9c.1.1.2-.4-.3-.5z"/><path d="M23.1 14.9c-.9-.9-8.4-.9-8.4-.9s-7.6 0-8.5.9c-.9.9-.9 5.3-.9 5.4 0 0 0 4.5.9 5.4.9.9 8.5.9 8.5.9s7.6 0 8.5-.9c.9-.9.9-5.4.9-5.4 0-.1-.1-4.5-1-5.4zm-12.2 2.7H9.7V24H8.4v-6.4H7.2v-1.1H11v1.1zm3.6 6.4h-1.1v-.6c-.2.2-.4.4-.6.5-.2.1-.4.2-.6.2-.3 0-.4-.1-.6-.2-.1-.2-.2-.4-.2-.7v-4.6h1.1v4.3c0 .1 0 .2.1.3 0 .1.1.1.2.1s.2 0 .3-.1l.3-.3v-4.2h1.1V24zm4-1.1c0 .4-.1.7-.3.9-.2.2-.4.3-.7.3-.2 0-.4 0-.6-.1-.2-.1-.3-.2-.5-.4v.4h-1.1v-7.5h1.1v2.4c.1-.2.3-.3.5-.4.2-.1.3-.1.5-.1.3 0 .6.1.8.4.2.2.3.6.3 1v3.1zm3.8-1.5h-2.1v1c0 .3 0 .5.1.6.1.1.2.2.4.2s.3 0 .4-.1c.1-.1.1-.3.1-.6v-.3h1.1v.3c0 .6-.1 1-.4 1.3-.3.3-.7.4-1.2.4s-.9-.2-1.2-.5c-.3-.3-.4-.7-.4-1.3V20c0-.5.2-.9.5-1.2.3-.3.7-.5 1.2-.5s.9.1 1.2.4c.3.3.4.7.4 1.2v1.5z"/></svg>
+    </a></li>
+          </ul>
+</div>
+    </div>
+  </div>
+</div>
+    
+    </div>
+  </div>
+
+  
+  <div class="footer-uic-menu">
+    <div class="l-full">
+
+      <div aria-label="UIC.edu Links">
+  <h2 class="assistive-text">UIC.edu links</h2>
+  <ul class="uic-footer-menu">
+    <li><strong><a href="https://uic.edu/">UIC.edu</a></strong></li>
+    <li><a href="https://catalog.uic.edu/ucat/academic-calendar/">Academic Calendar</a></li>
+    <li><a href="https://uicflames.com/">Athletics</a></li>
+    <li><a href="https://www.uic.edu/apps/departments-az/search">Campus Directory</a></li>
+    <li><a href="https://disabilityresources.uic.edu/">Disability Resources</a></li>
+    <li><a href="https://emergency.uic.edu/">Emergency Information</a></li>
+    <li><a href="https://today.uic.edu/events">Event Calendar</a></li>
+    <li><a href="https://uic.edu/about/job-opportunities">Job Openings</a></li>
+    <li><a href="https://library.uic.edu/">Library</a></li>
+    <li><a href="https://maps.uic.edu/">Maps</a></li>
+    <li><a href="https://ready.uic.edu/digital-materials/uic-safe-mobile-app/">UIC Safe Mobile App</a></li>
+    <li><a href="https://today.uic.edu/">UIC Today</a></li>
+    <li><a href="https://uihealth.uic.edu/">UI Health</a></li>
+    <li><a href="https://dos.uic.edu/student-veterans-affairs/">Veterans Affairs</a></li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+
+  <div class="footer-legal">
+    <div class="l-full">
+
+      <div class="red-version">Powered by Red 2.38.0</div>
+
+<div class="site-copyright">
+  &copy; 2020 The Board of Trustees of the University of Illinois <span class="pipe-separator">|</span>
+  <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a>
+</div>
+
+<div class="campuses" aria-label="Campuses">
+  <h2 class="assistive-text">Campuses</h2>
+  <ul class="campuses-list">
+    <li><a href="https://www.uillinois.edu/">University of Illinois System</a></li>
+    <li><a href="https://illinois.edu/">Urbana-Champaign</a></li>
+    <li><a href="https://www.uis.edu/">Springfield</a></li>
+  </ul>
+</div>
+<div class="cookie-banner">
+  <div id="footer-bottom">
+    <a class="optanon-show-settings">Cookie Settings</a>
+  </div>
+</div>
+    </div>
+  </div>
+
+</footer>
+
+	    </div>
+
+
+  <!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://latinocultural.uic.edu/wp-admin/admin-ajax.php";
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"","font_method":"svg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://latinocultural.uic.edu/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.12.1'></script>
+<script type='text/javascript' src='https://latinocultural.uic.edu/wp-content/plugins/uic-red/js-admin/uic-publish-post-settings.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://latinocultural.uic.edu/wp-content/plugins/uic-red/js-admin/acf-field-group-toggle.js?ver=1.0.0'></script>
+<script type='text/javascript' src='//www.uic.edu/apps/web-alert/alert.js?ver=3'></script>
+<script type='text/javascript' src='https://latinocultural.uic.edu/wp-content/themes/uic-red/js/main.js?ver=1'></script>
+<script type='text/javascript' src='https://latinocultural.uic.edu/wp-includes/js/wp-embed.min.js?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6'></script>
+
+
+
+  
+  
+  <script async src="https://cdn.cookielaw.org/consent/f5cc0259-ebf9-460e-b628-c1d661e5d3b6.js" type="text/javascript" charset="UTF-8"></script>
+
+  </body>
+</html>
